@@ -1,0 +1,21 @@
+career,min_salary,max_salary,avg_salary,demand_index,top_countries,growth_rate,remote_friendly
+Data Scientist,95444,155096,119305,60,"United Kingdom, United States, Australia, Switzerland, Spain, Brazil",15,True
+Data Engineer,89709,145778,112137,81,"United Kingdom, Brazil, Canada, France",23,False
+Machine Learning Engineer,82094,133403,102618,80,"Germany, Canada, United Kingdom, United States, Singapore, Spain",21,False
+Software Engineer,68466,111257,85583,92,"United States, Netherlands, Australia",10,True
+Frontend Developer,70082,113883,87603,87,"India, Japan, France, Switzerland, Netherlands",19,True
+Backend Developer,76633,124529,95792,63,"Spain, Germany, Australia",11,False
+DevOps Engineer,82598,134222,103248,81,"France, Singapore, United Kingdom, Spain, Canada",8,False
+Product Manager,105761,171862,132202,93,"Spain, Sweden, Switzerland, France, Netherlands",16,True
+UX Designer,60288,97969,75361,65,"Germany, Brazil, United States",8,True
+Data Analyst,74900,121713,93626,93,"Japan, United Kingdom, France, Switzerland",11,True
+Business Analyst,50618,82254,63273,65,"Japan, Switzerland, Sweden, Canada",25,False
+Cloud Architect,76811,124818,96014,62,"Switzerland, United Kingdom, Netherlands, Canada",24,False
+Cybersecurity Analyst,58110,94429,72638,64,"Spain, Brazil, India, Germany",17,True
+AI Research Scientist,80817,131328,101022,90,"Brazil, Japan, Singapore, United States, Canada, Switzerland",25,True
+Full Stack Developer,85356,138704,106696,89,"Germany, Switzerland, Japan, Canada",6,False
+Mobile Developer,74416,120927,93021,88,"Netherlands, Germany, Sweden, Singapore",5,True
+QA Engineer,80160,130261,100201,60,"Australia, Japan, United Kingdom",5,True
+Technical Writer,83804,136181,104755,72,"Switzerland, Sweden, Spain",7,True
+Data Architect,85492,138925,106866,90,"Brazil, Singapore, United States",16,False
+MLOps Engineer,100310,163004,125388,64,"Spain, Japan, India, France",16,False

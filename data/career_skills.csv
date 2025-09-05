@@ -1,0 +1,205 @@
+career,skill,difficulty,importance,is_required,category,weight
+Data Scientist,Python,Intermediate,10,True,core,1.0
+Data Scientist,SQL,Intermediate,9,True,core,1.0
+Data Scientist,Machine Learning,Intermediate,7,True,core,1.0
+Data Scientist,Statistics,Intermediate,9,True,core,1.0
+Data Scientist,Data Visualization,Beginner,7,False,intermediate,0.7
+Data Scientist,Pandas,Intermediate,6,True,intermediate,0.7
+Data Scientist,NumPy,Intermediate,5,True,intermediate,0.7
+Data Scientist,Scikit-learn,Intermediate,9,True,core,1.0
+Data Scientist,Jupyter,Beginner,2,False,supporting,0.4
+Data Scientist,Matplotlib,Intermediate,4,False,intermediate,0.7
+Data Scientist,Seaborn,Intermediate,6,False,intermediate,0.7
+Data Scientist,Plotly,Advanced,7,False,intermediate,0.7
+Data Scientist,R,Intermediate,4,False,intermediate,0.7
+Data Scientist,TensorFlow,Advanced,10,True,core,1.0
+Data Scientist,PyTorch,Advanced,8,True,core,1.0
+Data Scientist,Deep Learning,Intermediate,9,True,core,1.0
+Data Scientist,Data Cleaning,Intermediate,7,True,intermediate,0.7
+Data Scientist,Feature Engineering,Intermediate,6,True,intermediate,0.7
+Data Scientist,Model Evaluation,Intermediate,5,True,core,1.0
+Data Scientist,A/B Testing,Advanced,7,False,intermediate,0.7
+Data Scientist,Business Intelligence,Beginner,6,False,intermediate,0.7
+Data Engineer,Python,Intermediate,10,True,core,1.0
+Data Engineer,SQL,Beginner,8,True,core,1.0
+Data Engineer,Hadoop,Beginner,7,True,intermediate,0.7
+Data Engineer,Spark,Beginner,7,True,intermediate,0.7
+Data Engineer,Kafka,Intermediate,5,False,intermediate,0.7
+Data Engineer,Docker,Beginner,6,False,intermediate,0.7
+Data Engineer,AWS,Beginner,5,False,intermediate,0.7
+Data Engineer,ETL,Advanced,9,True,core,1.0
+Data Engineer,Data Warehousing,Intermediate,7,False,intermediate,0.7
+Data Engineer,PostgreSQL,Intermediate,4,False,intermediate,0.7
+Data Engineer,MongoDB,Advanced,4,False,intermediate,0.7
+Data Engineer,Redis,Intermediate,5,True,intermediate,0.7
+Data Engineer,Elasticsearch,Beginner,6,False,intermediate,0.7
+Data Engineer,Kubernetes,Intermediate,4,False,intermediate,0.7
+Data Engineer,Terraform,Intermediate,4,True,supporting,0.4
+Data Engineer,CI/CD,Advanced,7,False,intermediate,0.7
+Data Engineer,Data Governance,Intermediate,5,True,intermediate,0.7
+Data Engineer,Linux,Advanced,6,False,intermediate,0.7
+Machine Learning Engineer,Python,Beginner,8,True,core,1.0
+Machine Learning Engineer,Machine Learning,Beginner,7,True,core,1.0
+Machine Learning Engineer,Deep Learning,Beginner,9,True,core,1.0
+Machine Learning Engineer,TensorFlow,Advanced,10,True,core,1.0
+Machine Learning Engineer,PyTorch,Beginner,10,True,core,1.0
+Machine Learning Engineer,MLOps,Beginner,7,True,core,1.0
+Machine Learning Engineer,Docker,Intermediate,6,True,intermediate,0.7
+Machine Learning Engineer,Kubernetes,Beginner,7,True,intermediate,0.7
+Machine Learning Engineer,Scikit-learn,Advanced,7,True,core,1.0
+Machine Learning Engineer,NumPy,Beginner,4,False,intermediate,0.7
+Machine Learning Engineer,Pandas,Beginner,5,False,intermediate,0.7
+Machine Learning Engineer,Jupyter,Beginner,2,False,supporting,0.4
+Machine Learning Engineer,Statistics,Advanced,7,True,core,1.0
+Machine Learning Engineer,Computer Vision,Intermediate,9,False,core,1.0
+Machine Learning Engineer,NLP,Beginner,7,True,core,1.0
+Software Engineer,Java,Advanced,7,True,core,1.0
+Software Engineer,Python,Advanced,8,True,core,1.0
+Software Engineer,JavaScript,Intermediate,9,True,core,1.0
+Software Engineer,Git,Beginner,2,True,supporting,0.4
+Software Engineer,SQL,Beginner,8,True,core,1.0
+Software Engineer,Docker,Beginner,7,False,intermediate,0.7
+Software Engineer,Microservices,Advanced,5,False,intermediate,0.7
+Software Engineer,CI/CD,Intermediate,7,True,intermediate,0.7
+Software Engineer,Agile,Advanced,6,False,intermediate,0.7
+Software Engineer,Scrum,Advanced,6,False,intermediate,0.7
+Software Engineer,System Design,Intermediate,7,True,intermediate,0.7
+Software Engineer,Distributed Systems,Beginner,6,False,intermediate,0.7
+Frontend Developer,HTML,Intermediate,5,True,intermediate,0.7
+Frontend Developer,CSS,Intermediate,7,True,intermediate,0.7
+Frontend Developer,JavaScript,Intermediate,9,True,core,1.0
+Frontend Developer,React,Beginner,7,False,intermediate,0.7
+Frontend Developer,TypeScript,Intermediate,7,False,intermediate,0.7
+Frontend Developer,Git,Beginner,2,True,supporting,0.4
+Frontend Developer,Angular,Advanced,7,True,intermediate,0.7
+Frontend Developer,Vue.js,Advanced,5,False,intermediate,0.7
+Backend Developer,Python,Intermediate,7,True,core,1.0
+Backend Developer,Java,Advanced,7,True,core,1.0
+Backend Developer,Node.js,Advanced,5,False,intermediate,0.7
+Backend Developer,SQL,Beginner,8,True,core,1.0
+Backend Developer,Microservices,Advanced,7,True,intermediate,0.7
+Backend Developer,Docker,Intermediate,7,False,intermediate,0.7
+Backend Developer,Flask,Beginner,6,False,intermediate,0.7
+Backend Developer,Django,Beginner,6,True,intermediate,0.7
+Backend Developer,Spring Boot,Beginner,7,False,intermediate,0.7
+Backend Developer,Express.js,Beginner,4,False,intermediate,0.7
+Backend Developer,API Design,Beginner,7,True,intermediate,0.7
+DevOps Engineer,Docker,Intermediate,6,True,intermediate,0.7
+DevOps Engineer,Kubernetes,Intermediate,4,False,intermediate,0.7
+DevOps Engineer,AWS,Advanced,4,False,intermediate,0.7
+DevOps Engineer,Jenkins,Beginner,4,False,supporting,0.4
+DevOps Engineer,Terraform,Intermediate,3,False,supporting,0.4
+DevOps Engineer,Linux,Advanced,5,True,intermediate,0.7
+DevOps Engineer,Shell Scripting,Beginner,7,True,intermediate,0.7
+DevOps Engineer,CI/CD,Intermediate,6,False,intermediate,0.7
+DevOps Engineer,Azure,Intermediate,5,True,intermediate,0.7
+DevOps Engineer,GCP,Advanced,6,True,intermediate,0.7
+DevOps Engineer,Ansible,Intermediate,4,True,supporting,0.4
+DevOps Engineer,GitLab CI,Beginner,7,True,intermediate,0.7
+DevOps Engineer,GitHub Actions,Advanced,6,False,intermediate,0.7
+Product Manager,Agile,Intermediate,4,True,intermediate,0.7
+Product Manager,Scrum,Beginner,7,False,intermediate,0.7
+Product Manager,JIRA,Advanced,2,True,supporting,0.4
+Product Manager,User Research,Intermediate,5,False,intermediate,0.7
+Product Manager,Data Analysis,Advanced,4,False,intermediate,0.7
+Product Manager,SQL,Beginner,7,False,core,1.0
+Product Manager,Requirements Gathering,Advanced,6,True,intermediate,0.7
+Product Manager,Stakeholder Management,Beginner,4,False,soft,0.6
+Product Manager,A/B Testing,Beginner,6,False,intermediate,0.7
+UX Designer,Figma,Beginner,3,True,supporting,0.4
+UX Designer,Adobe XD,Beginner,2,False,supporting,0.4
+UX Designer,User Research,Beginner,4,True,intermediate,0.7
+UX Designer,Prototyping,Intermediate,4,True,intermediate,0.7
+UX Designer,Usability Testing,Intermediate,5,False,intermediate,0.7
+UX Designer,Design Systems,Advanced,5,False,intermediate,0.7
+UX Designer,HTML,Beginner,7,True,intermediate,0.7
+UX Designer,CSS,Intermediate,5,True,intermediate,0.7
+UX Designer,Sketch,Intermediate,6,False,intermediate,0.7
+UX Designer,InVision,Intermediate,6,False,intermediate,0.7
+UX Designer,Principle,Beginner,6,False,intermediate,0.7
+UX Designer,A/B Testing,Intermediate,6,False,intermediate,0.7
+Data Analyst,SQL,Intermediate,10,True,core,1.0
+Data Analyst,Python,Intermediate,9,True,core,1.0
+Data Analyst,Tableau,Beginner,2,True,supporting,0.4
+Data Analyst,Power BI,Advanced,3,True,supporting,0.4
+Data Analyst,Statistics,Advanced,7,False,core,1.0
+Data Analyst,Data Cleaning,Advanced,7,True,intermediate,0.7
+Data Analyst,Data Visualization,Beginner,5,False,intermediate,0.7
+Data Analyst,Pandas,Intermediate,7,True,intermediate,0.7
+Data Analyst,NumPy,Beginner,5,True,intermediate,0.7
+Data Analyst,R,Intermediate,4,True,intermediate,0.7
+Data Analyst,Business Intelligence,Intermediate,7,False,intermediate,0.7
+Data Analyst,ETL,Beginner,9,False,core,1.0
+Business Analyst,SQL,Advanced,9,False,core,1.0
+Business Analyst,Requirements Gathering,Advanced,4,False,intermediate,0.7
+Business Analyst,Stakeholder Management,Beginner,4,True,soft,0.6
+Business Analyst,Data Analysis,Intermediate,7,True,intermediate,0.7
+Business Analyst,JIRA,Beginner,3,True,supporting,0.4
+Business Analyst,Process Improvement,Beginner,6,True,intermediate,0.7
+Business Analyst,Change Management,Intermediate,6,False,intermediate,0.7
+Business Analyst,Risk Assessment,Intermediate,6,True,intermediate,0.7
+Business Analyst,Cost-Benefit Analysis,Advanced,6,True,intermediate,0.7
+Business Analyst,Documentation,Intermediate,6,True,intermediate,0.7
+Business Analyst,Training,Intermediate,7,False,intermediate,0.7
+Business Analyst,Business Intelligence,Beginner,7,True,intermediate,0.7
+Cloud Architect,AWS,Intermediate,5,True,intermediate,0.7
+Cloud Architect,Azure,Beginner,4,True,intermediate,0.7
+Cloud Architect,GCP,Intermediate,6,True,intermediate,0.7
+Cloud Architect,Terraform,Intermediate,4,False,supporting,0.4
+Cloud Architect,Docker,Intermediate,4,False,intermediate,0.7
+Cloud Architect,Kubernetes,Advanced,7,True,intermediate,0.7
+Cloud Architect,Microservices,Beginner,7,False,intermediate,0.7
+Cybersecurity Analyst,Linux,Intermediate,5,True,intermediate,0.7
+Cybersecurity Analyst,Incident Response,Intermediate,6,False,intermediate,0.7
+Cybersecurity Analyst,Threat Intelligence,Intermediate,6,True,intermediate,0.7
+Cybersecurity Analyst,Python,Advanced,7,True,core,1.0
+Cybersecurity Analyst,Vulnerability Assessment,Intermediate,7,False,intermediate,0.7
+Cybersecurity Analyst,Penetration Testing,Beginner,4,True,intermediate,0.7
+Cybersecurity Analyst,Risk Assessment,Advanced,5,False,intermediate,0.7
+Cybersecurity Analyst,Training,Beginner,4,True,intermediate,0.7
+AI Research Scientist,Python,Advanced,9,False,core,1.0
+AI Research Scientist,Machine Learning,Advanced,9,False,core,1.0
+AI Research Scientist,Deep Learning,Intermediate,7,True,core,1.0
+AI Research Scientist,PyTorch,Advanced,7,True,core,1.0
+AI Research Scientist,TensorFlow,Beginner,7,False,core,1.0
+AI Research Scientist,Statistics,Beginner,9,True,core,1.0
+AI Research Scientist,Computer Vision,Intermediate,9,False,core,1.0
+AI Research Scientist,NLP,Intermediate,10,True,core,1.0
+AI Research Scientist,Reinforcement Learning,Intermediate,4,True,intermediate,0.7
+AI Research Scientist,Collaboration,Intermediate,5,True,intermediate,0.7
+Full Stack Developer,HTML,Intermediate,4,False,intermediate,0.7
+Full Stack Developer,CSS,Intermediate,5,True,intermediate,0.7
+Full Stack Developer,JavaScript,Beginner,10,True,core,1.0
+Full Stack Developer,Python,Advanced,10,False,core,1.0
+Full Stack Developer,Java,Intermediate,10,True,core,1.0
+Full Stack Developer,SQL,Beginner,8,True,core,1.0
+Full Stack Developer,React,Advanced,5,False,intermediate,0.7
+Full Stack Developer,Node.js,Beginner,6,True,intermediate,0.7
+Full Stack Developer,Docker,Intermediate,7,False,intermediate,0.7
+Full Stack Developer,DevOps,Advanced,6,True,intermediate,0.7
+Mobile Developer,Swift,Intermediate,7,True,intermediate,0.7
+Mobile Developer,Kotlin,Beginner,7,True,intermediate,0.7
+Mobile Developer,Git,Beginner,3,False,supporting,0.4
+QA Engineer,Python,Intermediate,7,False,core,1.0
+QA Engineer,Selenium,Advanced,4,True,supporting,0.4
+QA Engineer,JIRA,Beginner,4,False,supporting,0.4
+QA Engineer,SQL,Beginner,9,False,core,1.0
+QA Engineer,API Testing,Intermediate,4,True,intermediate,0.7
+QA Engineer,Performance Testing,Intermediate,5,False,intermediate,0.7
+QA Engineer,Security Testing,Advanced,5,True,intermediate,0.7
+Technical Writer,Technical Writing,Beginner,6,True,intermediate,0.7
+Technical Writer,Markdown,Intermediate,5,False,intermediate,0.7
+Technical Writer,Git,Intermediate,2,False,supporting,0.4
+Technical Writer,Content Strategy,Beginner,7,False,intermediate,0.7
+Technical Writer,Knowledge Management,Intermediate,4,True,intermediate,0.7
+Data Architect,SQL,Intermediate,9,True,core,1.0
+Data Architect,Data Governance,Beginner,6,False,intermediate,0.7
+Data Architect,ETL,Intermediate,10,True,core,1.0
+Data Architect,Data Warehousing,Intermediate,6,False,intermediate,0.7
+MLOps Engineer,Machine Learning,Advanced,7,False,core,1.0
+MLOps Engineer,Docker,Beginner,4,True,intermediate,0.7
+MLOps Engineer,Kubernetes,Advanced,7,False,intermediate,0.7
+MLOps Engineer,CI/CD,Advanced,5,True,intermediate,0.7
+MLOps Engineer,Python,Intermediate,8,True,core,1.0
+MLOps Engineer,A/B Testing,Beginner,6,True,intermediate,0.7
+MLOps Engineer,Incident Response,Advanced,7,False,intermediate,0.7

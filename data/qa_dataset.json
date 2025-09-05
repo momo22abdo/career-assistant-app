@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Which career suits me if I love AI?",
+    "answer": "If you're passionate about AI, consider these careers: Data Scientist, Machine Learning Engineer, AI Research Scientist, or MLOps Engineer. These roles involve working with AI algorithms, neural networks, and machine learning models.",
+    "category": "Career Guidance",
+    "tags": [
+      "AI",
+      "career choice",
+      "machine learning"
+    ]
+  },
+  {
+    "question": "How do I start to become a Software Engineer?",
+    "answer": "To become a Software Engineer: 1) Learn programming fundamentals (Python/Java), 2) Study data structures and algorithms, 3) Build projects and contribute to open source, 4) Learn version control (Git), 5) Practice coding interviews, 6) Get internships or entry-level positions.",
+    "category": "Learning Path",
+    "tags": [
+      "software engineering",
+      "learning path",
+      "programming"
+    ]
+  },
+  {
+    "question": "What skills do I need for Data Science?",
+    "answer": "Essential skills for Data Science: Python, SQL, Statistics, Machine Learning, Data Visualization (Tableau/Power BI), Pandas/NumPy, and domain knowledge. Also important: critical thinking, communication, and business acumen.",
+    "category": "Skills",
+    "tags": [
+      "data science",
+      "skills",
+      "requirements"
+    ]
+  },
+  {
+    "question": "Is a degree necessary for tech careers?",
+    "answer": "While a degree can be helpful, many tech careers value skills and experience over formal education. Bootcamps, online courses, and self-study can be effective alternatives. Focus on building a strong portfolio and gaining practical experience.",
+    "category": "Education",
+    "tags": [
+      "education",
+      "degree",
+      "bootcamp",
+      "self-study"
+    ]
+  },
+  {
+    "question": "How much can I earn as a Data Engineer?",
+    "answer": "Data Engineer salaries vary by location and experience: Entry-level: $60K-80K, Mid-level: $80K-120K, Senior: $120K-180K+. High demand in tech hubs like San Francisco, New York, and London.",
+    "category": "Salary",
+    "tags": [
+      "data engineering",
+      "salary",
+      "compensation"
+    ]
+  },
+  {
+    "question": "What's the difference between Data Scientist and Data Analyst?",
+    "answer": "Data Analysts focus on descriptive analytics, creating reports and dashboards. Data Scientists do predictive analytics, build ML models, and work on complex algorithms. Data Scientists typically need more advanced statistical and programming skills.",
+    "category": "Career Comparison",
+    "tags": [
+      "data scientist",
+      "data analyst",
+      "differences"
+    ]
+  },
+  {
+    "question": "How do I transition from non-tech to tech?",
+    "answer": "Transitioning to tech: 1) Identify transferable skills, 2) Learn programming fundamentals, 3) Build projects in your target area, 4) Network with tech professionals, 5) Consider bootcamps or certifications, 6) Start with entry-level positions.",
+    "category": "Career Transition",
+    "tags": [
+      "career change",
+      "transition",
+      "non-tech to tech"
+    ]
+  },
+  {
+    "question": "What programming language should I learn first?",
+    "answer": "Python is excellent for beginners due to readable syntax and versatility. It's used in data science, web development, AI, and automation. JavaScript is great if you're interested in web development. Start with one and master the fundamentals.",
+    "category": "Programming",
+    "tags": [
+      "programming",
+      "python",
+      "javascript",
+      "first language"
+    ]
+  }
+]

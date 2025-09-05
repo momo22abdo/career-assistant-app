@@ -1,0 +1,185 @@
+title,skill,level,platform,duration_hours,rating,price,students_enrolled,instructor,last_updated,certificate,url
+Python Fundamentals for Beginner,Python,Beginner,Udemy,4,3.6,49.99,32592,Dr. Williams,2024-12,True,https://example.com/courses/python-beginner
+Complete Python Course for Beginner,Python,Beginner,Stanford Online,13,4.9,99.99,4819,Dr. Miller,2024-12,False,https://example.com/courses/python-beginner
+Complete Python Course for Intermediate,Python,Intermediate,DataCamp,17,4.0,9.99,10813,Dr. Garcia,2024-09,False,https://example.com/courses/python-intermediate
+Python Masterclass: From Intermediate to Advanced,Python,Intermediate,Udemy,5,4.6,49.99,38490,Dr. Johnson,2024-01,True,https://example.com/courses/python-intermediate
+Learn Python - Intermediate Tutorial,Python,Intermediate,Udemy,14,4.8,9.99,15747,Dr. Williams,2024-11,False,https://example.com/courses/python-intermediate
+Python Bootcamp: Advanced Edition,Python,Advanced,Stanford Online,10,5.0,29.99,36298,Dr. Johnson,2024-12,False,https://example.com/courses/python-advanced
+Python Bootcamp: Advanced Edition,Python,Advanced,Udemy,10,3.5,19.99,22065,Dr. Brown,2024-05,False,https://example.com/courses/python-advanced
+Complete Java Course for Beginner,Java,Beginner,Coursera,5,4.2,99.99,10583,Dr. Williams,2024-07,True,https://example.com/courses/java-beginner
+Java Masterclass: From Intermediate to Advanced,Java,Intermediate,Udemy,10,4.1,29.99,47515,Dr. Garcia,2024-12,False,https://example.com/courses/java-intermediate
+Java Fundamentals for Intermediate,Java,Intermediate,Udemy,10,4.7,49.99,20312,Dr. Smith,2024-06,True,https://example.com/courses/java-intermediate
+Learn Java - Intermediate Tutorial,Java,Intermediate,DataCamp,9,3.5,49.99,44420,Dr. Brown,2024-11,False,https://example.com/courses/java-intermediate
+Java Masterclass: From Advanced to Advanced,Java,Advanced,Coursera,11,4.9,99.99,4967,Dr. Miller,2024-08,True,https://example.com/courses/java-advanced
+Learn Java - Advanced Tutorial,Java,Advanced,Stanford Online,19,4.2,49.99,19059,Dr. Brown,2024-04,False,https://example.com/courses/java-advanced
+JavaScript Masterclass: From Beginner to Advanced,JavaScript,Beginner,Coursera,11,4.1,9.99,722,Dr. Garcia,2024-08,False,https://example.com/courses/javascript-beginner
+JavaScript Masterclass: From Intermediate to Advanced,JavaScript,Intermediate,MIT OpenCourseWare,15,4.2,29.99,47765,Dr. Williams,2024-04,True,https://example.com/courses/javascript-intermediate
+JavaScript Masterclass: From Intermediate to Advanced,JavaScript,Intermediate,DataCamp,7,4.9,29.99,31391,Dr. Brown,2024-03,False,https://example.com/courses/javascript-intermediate
+Learn JavaScript - Intermediate Tutorial,JavaScript,Intermediate,LinkedIn Learning,16,4.2,19.99,26192,Dr. Williams,2024-03,False,https://example.com/courses/javascript-intermediate
+Complete JavaScript Course for Advanced,JavaScript,Advanced,MIT OpenCourseWare,17,4.8,9.99,43734,Dr. Garcia,2024-11,False,https://example.com/courses/javascript-advanced
+Complete JavaScript Course for Advanced,JavaScript,Advanced,edX,17,4.5,9.99,16656,Dr. Smith,2024-02,False,https://example.com/courses/javascript-advanced
+Advanced JavaScript Techniques,JavaScript,Advanced,Pluralsight,13,3.9,29.99,13328,Dr. Williams,2024-11,False,https://example.com/courses/javascript-advanced
+SQL Fundamentals for Beginner,SQL,Beginner,MIT OpenCourseWare,13,4.2,99.99,38810,Dr. Jones,2024-10,True,https://example.com/courses/sql-beginner
+Learn SQL - Beginner Tutorial,SQL,Beginner,Coursera,16,4.6,29.99,24901,Dr. Jones,2024-11,False,https://example.com/courses/sql-beginner
+Advanced SQL Techniques,SQL,Intermediate,Pluralsight,19,4.9,29.99,23932,Dr. Jones,2024-05,True,https://example.com/courses/sql-intermediate
+Advanced SQL Techniques,SQL,Intermediate,Pluralsight,8,3.5,29.99,16933,Dr. Miller,2024-08,False,https://example.com/courses/sql-intermediate
+Learn SQL - Intermediate Tutorial,SQL,Intermediate,Coursera,18,4.3,19.99,3268,Dr. Brown,2024-01,False,https://example.com/courses/sql-intermediate
+SQL Bootcamp: Advanced Edition,SQL,Advanced,Coursera,15,4.9,9.99,36262,Dr. Smith,2024-08,True,https://example.com/courses/sql-advanced
+Advanced C++ Techniques,C++,Beginner,Udemy,6,4.8,99.99,6716,Dr. Johnson,2024-08,False,https://example.com/courses/c++-beginner
+C++ Bootcamp: Intermediate Edition,C++,Intermediate,DataCamp,15,3.7,0.0,15906,Dr. Miller,2024-12,True,https://example.com/courses/c++-intermediate
+Advanced C++ Techniques,C++,Advanced,Udemy,16,4.6,0.0,24396,Dr. Brown,2024-08,False,https://example.com/courses/c++-advanced
+Learn C++ - Advanced Tutorial,C++,Advanced,MIT OpenCourseWare,5,3.8,29.99,13852,Dr. Smith,2024-08,False,https://example.com/courses/c++-advanced
+C# Bootcamp: Beginner Edition,C#,Beginner,DataCamp,8,4.0,0.0,14551,Dr. Jones,2024-02,False,https://example.com/courses/c#-beginner
+C# Fundamentals for Beginner,C#,Beginner,Udemy,18,3.9,49.99,41757,Dr. Williams,2024-03,True,https://example.com/courses/c#-beginner
+C# Bootcamp: Intermediate Edition,C#,Intermediate,DataCamp,5,4.1,0.0,14130,Dr. Smith,2024-02,True,https://example.com/courses/c#-intermediate
+Learn C# - Advanced Tutorial,C#,Advanced,Pluralsight,12,4.9,9.99,30838,Dr. Miller,2024-08,True,https://example.com/courses/c#-advanced
+C# Masterclass: From Advanced to Advanced,C#,Advanced,edX,18,4.4,0.0,16630,Dr. Jones,2024-03,True,https://example.com/courses/c#-advanced
+C# Bootcamp: Advanced Edition,C#,Advanced,DataCamp,15,3.7,49.99,10101,Dr. Williams,2024-02,False,https://example.com/courses/c#-advanced
+Go Fundamentals for Beginner,Go,Beginner,DataCamp,15,4.0,9.99,34022,Dr. Williams,2024-08,False,https://example.com/courses/go-beginner
+Go Fundamentals for Beginner,Go,Beginner,LinkedIn Learning,12,3.5,99.99,29438,Dr. Johnson,2024-03,False,https://example.com/courses/go-beginner
+Go Bootcamp: Beginner Edition,Go,Beginner,Stanford Online,20,4.2,99.99,680,Dr. Brown,2024-10,True,https://example.com/courses/go-beginner
+Go Bootcamp: Intermediate Edition,Go,Intermediate,LinkedIn Learning,5,4.5,0.0,7579,Dr. Brown,2024-12,True,https://example.com/courses/go-intermediate
+Go Fundamentals for Intermediate,Go,Intermediate,Udemy,18,4.4,0.0,24191,Dr. Garcia,2024-06,False,https://example.com/courses/go-intermediate
+Go Bootcamp: Advanced Edition,Go,Advanced,DataCamp,19,3.7,29.99,29976,Dr. Jones,2024-09,False,https://example.com/courses/go-advanced
+Rust Fundamentals for Beginner,Rust,Beginner,LinkedIn Learning,2,3.8,29.99,45790,Dr. Miller,2024-06,False,https://example.com/courses/rust-beginner
+Rust Masterclass: From Intermediate to Advanced,Rust,Intermediate,Coursera,7,4.9,9.99,10446,Dr. Garcia,2024-05,False,https://example.com/courses/rust-intermediate
+Rust Fundamentals for Intermediate,Rust,Intermediate,Udemy,8,4.8,49.99,20956,Dr. Garcia,2024-12,True,https://example.com/courses/rust-intermediate
+Learn Rust - Intermediate Tutorial,Rust,Intermediate,MIT OpenCourseWare,20,3.8,19.99,7452,Dr. Brown,2024-04,False,https://example.com/courses/rust-intermediate
+Learn Rust - Advanced Tutorial,Rust,Advanced,edX,19,4.7,49.99,37716,Dr. Miller,2024-02,False,https://example.com/courses/rust-advanced
+Rust Bootcamp: Advanced Edition,Rust,Advanced,Coursera,19,4.1,9.99,42878,Dr. Smith,2024-03,False,https://example.com/courses/rust-advanced
+Complete Scala Course for Beginner,Scala,Beginner,LinkedIn Learning,16,4.8,99.99,44100,Dr. Williams,2024-10,True,https://example.com/courses/scala-beginner
+Scala Fundamentals for Beginner,Scala,Beginner,LinkedIn Learning,10,4.4,49.99,29272,Dr. Brown,2024-06,True,https://example.com/courses/scala-beginner
+Scala Bootcamp: Beginner Edition,Scala,Beginner,Pluralsight,8,3.9,9.99,6237,Dr. Miller,2024-06,False,https://example.com/courses/scala-beginner
+Learn Scala - Intermediate Tutorial,Scala,Intermediate,Pluralsight,10,4.8,29.99,10838,Dr. Brown,2024-09,True,https://example.com/courses/scala-intermediate
+Scala Fundamentals for Intermediate,Scala,Intermediate,Udemy,19,4.4,19.99,20746,Dr. Garcia,2024-06,True,https://example.com/courses/scala-intermediate
+Scala Masterclass: From Advanced to Advanced,Scala,Advanced,LinkedIn Learning,16,3.8,0.0,41466,Dr. Miller,2024-06,False,https://example.com/courses/scala-advanced
+Advanced Scala Techniques,Scala,Advanced,Udemy,6,4.9,29.99,23984,Dr. Johnson,2024-07,True,https://example.com/courses/scala-advanced
+Learn Kotlin - Beginner Tutorial,Kotlin,Beginner,Coursera,4,3.7,99.99,19811,Dr. Smith,2024-08,False,https://example.com/courses/kotlin-beginner
+Kotlin Fundamentals for Beginner,Kotlin,Beginner,MIT OpenCourseWare,8,4.3,49.99,36402,Dr. Smith,2024-10,True,https://example.com/courses/kotlin-beginner
+Kotlin Fundamentals for Beginner,Kotlin,Beginner,Pluralsight,15,4.7,0.0,18854,Dr. Brown,2024-03,True,https://example.com/courses/kotlin-beginner
+Kotlin Masterclass: From Intermediate to Advanced,Kotlin,Intermediate,LinkedIn Learning,12,4.3,19.99,4960,Dr. Garcia,2024-10,True,https://example.com/courses/kotlin-intermediate
+Advanced Kotlin Techniques,Kotlin,Intermediate,edX,7,3.9,0.0,47580,Dr. Johnson,2024-12,False,https://example.com/courses/kotlin-intermediate
+Kotlin Bootcamp: Advanced Edition,Kotlin,Advanced,Stanford Online,18,3.9,49.99,22833,Dr. Johnson,2024-06,False,https://example.com/courses/kotlin-advanced
+Swift Fundamentals for Beginner,Swift,Beginner,MIT OpenCourseWare,16,4.4,29.99,33945,Dr. Garcia,2024-10,False,https://example.com/courses/swift-beginner
+Advanced Swift Techniques,Swift,Beginner,DataCamp,5,4.2,19.99,28603,Dr. Brown,2024-02,False,https://example.com/courses/swift-beginner
+Swift Fundamentals for Beginner,Swift,Beginner,Udemy,9,3.5,9.99,36856,Dr. Miller,2024-07,True,https://example.com/courses/swift-beginner
+Swift Masterclass: From Intermediate to Advanced,Swift,Intermediate,Stanford Online,20,3.9,9.99,18186,Dr. Jones,2024-08,False,https://example.com/courses/swift-intermediate
+Swift Bootcamp: Intermediate Edition,Swift,Intermediate,Udemy,13,4.1,19.99,21213,Dr. Williams,2024-02,False,https://example.com/courses/swift-intermediate
+Swift Bootcamp: Intermediate Edition,Swift,Intermediate,Pluralsight,8,4.5,29.99,4945,Dr. Smith,2024-03,True,https://example.com/courses/swift-intermediate
+Complete Swift Course for Advanced,Swift,Advanced,Udemy,5,4.0,0.0,8608,Dr. Johnson,2024-06,True,https://example.com/courses/swift-advanced
+PHP Masterclass: From Beginner to Advanced,PHP,Beginner,Pluralsight,15,3.9,0.0,22636,Dr. Brown,2024-04,True,https://example.com/courses/php-beginner
+Learn PHP - Beginner Tutorial,PHP,Beginner,Pluralsight,13,4.5,49.99,7963,Dr. Garcia,2024-02,False,https://example.com/courses/php-beginner
+PHP Bootcamp: Beginner Edition,PHP,Beginner,DataCamp,17,3.6,49.99,34917,Dr. Garcia,2024-07,True,https://example.com/courses/php-beginner
+PHP Fundamentals for Intermediate,PHP,Intermediate,MIT OpenCourseWare,19,4.1,19.99,40630,Dr. Smith,2024-04,False,https://example.com/courses/php-intermediate
+Advanced PHP Techniques,PHP,Intermediate,MIT OpenCourseWare,2,4.1,19.99,5056,Dr. Miller,2024-03,True,https://example.com/courses/php-intermediate
+PHP Bootcamp: Intermediate Edition,PHP,Intermediate,Stanford Online,2,4.3,0.0,21420,Dr. Jones,2024-11,True,https://example.com/courses/php-intermediate
+PHP Fundamentals for Advanced,PHP,Advanced,MIT OpenCourseWare,14,4.5,49.99,31115,Dr. Johnson,2024-02,True,https://example.com/courses/php-advanced
+PHP Masterclass: From Advanced to Advanced,PHP,Advanced,MIT OpenCourseWare,16,4.8,49.99,1140,Dr. Garcia,2024-12,True,https://example.com/courses/php-advanced
+Complete Ruby Course for Beginner,Ruby,Beginner,Stanford Online,7,4.0,19.99,42297,Dr. Jones,2024-08,True,https://example.com/courses/ruby-beginner
+Learn Ruby - Beginner Tutorial,Ruby,Beginner,DataCamp,2,3.9,99.99,43262,Dr. Garcia,2024-02,False,https://example.com/courses/ruby-beginner
+Ruby Masterclass: From Beginner to Advanced,Ruby,Beginner,MIT OpenCourseWare,14,3.6,99.99,33227,Dr. Garcia,2024-01,False,https://example.com/courses/ruby-beginner
+Complete Ruby Course for Intermediate,Ruby,Intermediate,LinkedIn Learning,17,4.0,29.99,32219,Dr. Miller,2024-06,True,https://example.com/courses/ruby-intermediate
+Ruby Bootcamp: Advanced Edition,Ruby,Advanced,Pluralsight,18,4.0,9.99,25247,Dr. Jones,2024-04,True,https://example.com/courses/ruby-advanced
+R Fundamentals for Beginner,R,Beginner,Coursera,16,3.9,99.99,8604,Dr. Johnson,2024-10,True,https://example.com/courses/r-beginner
+R Fundamentals for Beginner,R,Beginner,DataCamp,10,4.8,19.99,38828,Dr. Garcia,2024-11,False,https://example.com/courses/r-beginner
+R Masterclass: From Intermediate to Advanced,R,Intermediate,Coursera,5,3.9,0.0,17626,Dr. Jones,2024-01,True,https://example.com/courses/r-intermediate
+R Fundamentals for Intermediate,R,Intermediate,MIT OpenCourseWare,19,4.6,29.99,19305,Dr. Garcia,2024-10,True,https://example.com/courses/r-intermediate
+Advanced R Techniques,R,Advanced,Udemy,11,4.4,99.99,43751,Dr. Miller,2024-07,True,https://example.com/courses/r-advanced
+Learn R - Advanced Tutorial,R,Advanced,Stanford Online,14,3.6,19.99,17238,Dr. Garcia,2024-10,False,https://example.com/courses/r-advanced
+Learn R - Advanced Tutorial,R,Advanced,Coursera,20,4.8,49.99,32102,Dr. Garcia,2024-04,False,https://example.com/courses/r-advanced
+MATLAB Masterclass: From Beginner to Advanced,MATLAB,Beginner,LinkedIn Learning,2,4.3,99.99,33766,Dr. Brown,2024-04,True,https://example.com/courses/matlab-beginner
+Learn MATLAB - Beginner Tutorial,MATLAB,Beginner,Stanford Online,4,3.9,19.99,35415,Dr. Williams,2024-10,True,https://example.com/courses/matlab-beginner
+Complete MATLAB Course for Beginner,MATLAB,Beginner,Stanford Online,16,4.9,99.99,39675,Dr. Smith,2024-08,True,https://example.com/courses/matlab-beginner
+Learn MATLAB - Intermediate Tutorial,MATLAB,Intermediate,Coursera,16,4.9,29.99,12233,Dr. Williams,2024-01,False,https://example.com/courses/matlab-intermediate
+Advanced MATLAB Techniques,MATLAB,Intermediate,DataCamp,9,3.6,99.99,729,Dr. Garcia,2024-03,False,https://example.com/courses/matlab-intermediate
+MATLAB Fundamentals for Intermediate,MATLAB,Intermediate,MIT OpenCourseWare,10,3.6,19.99,24944,Dr. Brown,2024-09,True,https://example.com/courses/matlab-intermediate
+Complete MATLAB Course for Advanced,MATLAB,Advanced,Stanford Online,9,3.5,9.99,30194,Dr. Brown,2024-05,False,https://example.com/courses/matlab-advanced
+MATLAB Bootcamp: Advanced Edition,MATLAB,Advanced,Udemy,8,4.6,49.99,32342,Dr. Johnson,2024-05,True,https://example.com/courses/matlab-advanced
+Learn MATLAB - Advanced Tutorial,MATLAB,Advanced,edX,16,3.6,19.99,6588,Dr. Garcia,2024-01,True,https://example.com/courses/matlab-advanced
+Julia Bootcamp: Beginner Edition,Julia,Beginner,Pluralsight,16,4.9,9.99,5705,Dr. Williams,2024-09,True,https://example.com/courses/julia-beginner
+Julia Masterclass: From Beginner to Advanced,Julia,Beginner,Coursera,17,3.6,19.99,8437,Dr. Miller,2024-11,False,https://example.com/courses/julia-beginner
+Advanced Julia Techniques,Julia,Intermediate,MIT OpenCourseWare,12,3.5,0.0,1811,Dr. Smith,2024-06,True,https://example.com/courses/julia-intermediate
+Complete Julia Course for Advanced,Julia,Advanced,Stanford Online,11,4.6,19.99,29218,Dr. Brown,2024-10,False,https://example.com/courses/julia-advanced
+Complete Julia Course for Advanced,Julia,Advanced,Udemy,16,5.0,19.99,9931,Dr. Brown,2024-04,True,https://example.com/courses/julia-advanced
+Julia Masterclass: From Advanced to Advanced,Julia,Advanced,DataCamp,8,3.9,29.99,17333,Dr. Smith,2024-10,False,https://example.com/courses/julia-advanced
+Learn Machine Learning - Beginner Tutorial,Machine Learning,Beginner,MIT OpenCourseWare,7,3.9,9.99,42924,Dr. Jones,2024-06,False,https://example.com/courses/machine-learning-beginner
+Machine Learning Masterclass: From Intermediate to Advanced,Machine Learning,Intermediate,Udemy,4,4.7,99.99,11300,Dr. Smith,2024-03,False,https://example.com/courses/machine-learning-intermediate
+Machine Learning Bootcamp: Advanced Edition,Machine Learning,Advanced,edX,5,3.7,49.99,30013,Dr. Smith,2024-05,True,https://example.com/courses/machine-learning-advanced
+Machine Learning Fundamentals for Advanced,Machine Learning,Advanced,Coursera,13,4.6,49.99,27508,Dr. Brown,2024-10,False,https://example.com/courses/machine-learning-advanced
+Deep Learning Masterclass: From Beginner to Advanced,Deep Learning,Beginner,Coursera,5,4.9,9.99,3261,Dr. Garcia,2024-08,False,https://example.com/courses/deep-learning-beginner
+Deep Learning Bootcamp: Beginner Edition,Deep Learning,Beginner,MIT OpenCourseWare,10,4.7,9.99,6018,Dr. Smith,2024-05,False,https://example.com/courses/deep-learning-beginner
+Deep Learning Masterclass: From Beginner to Advanced,Deep Learning,Beginner,DataCamp,13,4.7,29.99,20998,Dr. Williams,2024-06,True,https://example.com/courses/deep-learning-beginner
+Deep Learning Bootcamp: Intermediate Edition,Deep Learning,Intermediate,edX,7,4.5,29.99,45501,Dr. Jones,2024-08,False,https://example.com/courses/deep-learning-intermediate
+Deep Learning Bootcamp: Intermediate Edition,Deep Learning,Intermediate,Udemy,15,4.4,99.99,11273,Dr. Jones,2024-03,True,https://example.com/courses/deep-learning-intermediate
+Deep Learning Fundamentals for Advanced,Deep Learning,Advanced,edX,18,4.3,99.99,48485,Dr. Johnson,2024-05,False,https://example.com/courses/deep-learning-advanced
+Complete Deep Learning Course for Advanced,Deep Learning,Advanced,Udemy,16,3.9,9.99,4020,Dr. Williams,2024-06,True,https://example.com/courses/deep-learning-advanced
+Advanced Statistics Techniques,Statistics,Beginner,LinkedIn Learning,17,4.0,49.99,31138,Dr. Brown,2024-05,False,https://example.com/courses/statistics-beginner
+Complete Statistics Course for Beginner,Statistics,Beginner,Coursera,7,4.0,29.99,18637,Dr. Garcia,2024-04,True,https://example.com/courses/statistics-beginner
+Statistics Bootcamp: Intermediate Edition,Statistics,Intermediate,edX,3,4.2,49.99,49937,Dr. Jones,2024-10,False,https://example.com/courses/statistics-intermediate
+Statistics Masterclass: From Intermediate to Advanced,Statistics,Intermediate,Pluralsight,6,4.0,99.99,4371,Dr. Garcia,2024-08,True,https://example.com/courses/statistics-intermediate
+Complete Statistics Course for Advanced,Statistics,Advanced,MIT OpenCourseWare,15,3.8,99.99,4065,Dr. Brown,2024-02,False,https://example.com/courses/statistics-advanced
+Advanced Statistics Techniques,Statistics,Advanced,edX,18,3.8,9.99,40813,Dr. Smith,2024-08,False,https://example.com/courses/statistics-advanced
+Complete Statistics Course for Advanced,Statistics,Advanced,Pluralsight,16,4.7,99.99,11055,Dr. Miller,2024-12,True,https://example.com/courses/statistics-advanced
+Data Science Bootcamp: Beginner Edition,Data Science,Beginner,Coursera,18,3.7,29.99,21967,Dr. Miller,2024-04,False,https://example.com/courses/data-science-beginner
+Learn Data Science - Intermediate Tutorial,Data Science,Intermediate,Stanford Online,18,4.4,9.99,42527,Dr. Jones,2024-07,False,https://example.com/courses/data-science-intermediate
+Advanced Data Science Techniques,Data Science,Advanced,Coursera,4,4.3,49.99,37983,Dr. Garcia,2024-02,False,https://example.com/courses/data-science-advanced
+Data Science Bootcamp: Advanced Edition,Data Science,Advanced,LinkedIn Learning,3,3.9,19.99,21624,Dr. Williams,2024-09,True,https://example.com/courses/data-science-advanced
+Learn Data Visualization - Beginner Tutorial,Data Visualization,Beginner,Udemy,3,4.7,19.99,11363,Dr. Williams,2024-03,True,https://example.com/courses/data-visualization-beginner
+Data Visualization Masterclass: From Beginner to Advanced,Data Visualization,Beginner,Coursera,15,4.1,0.0,30156,Dr. Smith,2024-09,False,https://example.com/courses/data-visualization-beginner
+Complete Data Visualization Course for Beginner,Data Visualization,Beginner,DataCamp,2,4.8,99.99,22935,Dr. Smith,2024-12,True,https://example.com/courses/data-visualization-beginner
+Learn Data Visualization - Intermediate Tutorial,Data Visualization,Intermediate,Pluralsight,19,4.9,99.99,48984,Dr. Williams,2024-01,True,https://example.com/courses/data-visualization-intermediate
+Data Visualization Masterclass: From Intermediate to Advanced,Data Visualization,Intermediate,Stanford Online,3,4.9,29.99,7228,Dr. Williams,2024-05,False,https://example.com/courses/data-visualization-intermediate
+Advanced Data Visualization Techniques,Data Visualization,Advanced,edX,11,4.1,9.99,14788,Dr. Jones,2024-12,False,https://example.com/courses/data-visualization-advanced
+Data Visualization Fundamentals for Advanced,Data Visualization,Advanced,Stanford Online,5,4.4,49.99,17531,Dr. Jones,2024-07,False,https://example.com/courses/data-visualization-advanced
+Advanced Data Analysis Techniques,Data Analysis,Beginner,DataCamp,8,3.8,0.0,46758,Dr. Garcia,2024-04,False,https://example.com/courses/data-analysis-beginner
+Learn Data Analysis - Intermediate Tutorial,Data Analysis,Intermediate,Coursera,17,3.6,0.0,36185,Dr. Johnson,2024-11,True,https://example.com/courses/data-analysis-intermediate
+Complete Data Analysis Course for Intermediate,Data Analysis,Intermediate,LinkedIn Learning,20,4.5,9.99,22757,Dr. Garcia,2024-06,False,https://example.com/courses/data-analysis-intermediate
+Complete Data Analysis Course for Intermediate,Data Analysis,Intermediate,DataCamp,10,3.6,99.99,43508,Dr. Williams,2024-10,False,https://example.com/courses/data-analysis-intermediate
+Data Analysis Fundamentals for Advanced,Data Analysis,Advanced,Coursera,16,4.4,0.0,18213,Dr. Johnson,2024-04,True,https://example.com/courses/data-analysis-advanced
+Data Analysis Fundamentals for Advanced,Data Analysis,Advanced,edX,11,4.6,29.99,9637,Dr. Garcia,2024-09,True,https://example.com/courses/data-analysis-advanced
+Learn Data Cleaning - Beginner Tutorial,Data Cleaning,Beginner,MIT OpenCourseWare,18,3.5,0.0,4156,Dr. Garcia,2024-11,True,https://example.com/courses/data-cleaning-beginner
+Learn Data Cleaning - Beginner Tutorial,Data Cleaning,Beginner,Udemy,18,3.6,19.99,46954,Dr. Miller,2024-11,True,https://example.com/courses/data-cleaning-beginner
+Data Cleaning Masterclass: From Beginner to Advanced,Data Cleaning,Beginner,Pluralsight,17,4.3,49.99,14036,Dr. Smith,2024-03,True,https://example.com/courses/data-cleaning-beginner
+Complete Data Cleaning Course for Intermediate,Data Cleaning,Intermediate,LinkedIn Learning,12,4.9,99.99,17509,Dr. Brown,2024-11,True,https://example.com/courses/data-cleaning-intermediate
+Learn Data Cleaning - Intermediate Tutorial,Data Cleaning,Intermediate,edX,8,3.5,9.99,24260,Dr. Garcia,2024-11,False,https://example.com/courses/data-cleaning-intermediate
+Learn Data Cleaning - Intermediate Tutorial,Data Cleaning,Intermediate,MIT OpenCourseWare,13,4.7,19.99,38127,Dr. Garcia,2024-12,True,https://example.com/courses/data-cleaning-intermediate
+Learn Data Cleaning - Advanced Tutorial,Data Cleaning,Advanced,Udemy,5,4.9,49.99,6983,Dr. Jones,2024-03,False,https://example.com/courses/data-cleaning-advanced
+Complete Data Cleaning Course for Advanced,Data Cleaning,Advanced,LinkedIn Learning,17,4.1,0.0,42352,Dr. Smith,2024-05,False,https://example.com/courses/data-cleaning-advanced
+Feature Engineering Bootcamp: Beginner Edition,Feature Engineering,Beginner,Stanford Online,10,4.4,9.99,32804,Dr. Johnson,2024-05,True,https://example.com/courses/feature-engineering-beginner
+Feature Engineering Bootcamp: Beginner Edition,Feature Engineering,Beginner,LinkedIn Learning,17,4.8,49.99,21614,Dr. Johnson,2024-05,False,https://example.com/courses/feature-engineering-beginner
+Advanced Feature Engineering Techniques,Feature Engineering,Beginner,Pluralsight,12,4.5,0.0,1368,Dr. Johnson,2024-02,True,https://example.com/courses/feature-engineering-beginner
+Feature Engineering Masterclass: From Intermediate to Advanced,Feature Engineering,Intermediate,Coursera,19,4.5,99.99,18485,Dr. Williams,2024-07,False,https://example.com/courses/feature-engineering-intermediate
+Learn Feature Engineering - Advanced Tutorial,Feature Engineering,Advanced,Coursera,2,4.0,9.99,48279,Dr. Smith,2024-09,False,https://example.com/courses/feature-engineering-advanced
+Advanced Feature Engineering Techniques,Feature Engineering,Advanced,edX,17,3.7,99.99,24655,Dr. Miller,2024-08,False,https://example.com/courses/feature-engineering-advanced
+Model Evaluation Masterclass: From Beginner to Advanced,Model Evaluation,Beginner,Stanford Online,20,3.7,49.99,4178,Dr. Brown,2024-05,True,https://example.com/courses/model-evaluation-beginner
+Model Evaluation Masterclass: From Intermediate to Advanced,Model Evaluation,Intermediate,Coursera,16,4.8,49.99,6206,Dr. Williams,2024-11,False,https://example.com/courses/model-evaluation-intermediate
+Advanced Model Evaluation Techniques,Model Evaluation,Advanced,LinkedIn Learning,8,4.7,49.99,38942,Dr. Jones,2024-01,True,https://example.com/courses/model-evaluation-advanced
+Model Evaluation Fundamentals for Advanced,Model Evaluation,Advanced,Coursera,16,3.9,9.99,5975,Dr. Johnson,2024-02,True,https://example.com/courses/model-evaluation-advanced
+Advanced A/B Testing Techniques,A/B Testing,Beginner,DataCamp,6,4.7,9.99,3522,Dr. Williams,2024-08,False,https://example.com/courses/a/b-testing-beginner
+A/B Testing Fundamentals for Beginner,A/B Testing,Beginner,LinkedIn Learning,9,4.4,99.99,6872,Dr. Brown,2024-02,True,https://example.com/courses/a/b-testing-beginner
+Complete A/B Testing Course for Beginner,A/B Testing,Beginner,Udemy,15,4.0,29.99,27922,Dr. Williams,2024-08,False,https://example.com/courses/a/b-testing-beginner
+Complete A/B Testing Course for Intermediate,A/B Testing,Intermediate,LinkedIn Learning,6,4.8,19.99,28921,Dr. Smith,2024-05,False,https://example.com/courses/a/b-testing-intermediate
+Complete A/B Testing Course for Intermediate,A/B Testing,Intermediate,DataCamp,11,4.8,49.99,11712,Dr. Brown,2024-03,True,https://example.com/courses/a/b-testing-intermediate
+A/B Testing Bootcamp: Advanced Edition,A/B Testing,Advanced,DataCamp,18,3.9,9.99,20512,Dr. Jones,2024-12,False,https://example.com/courses/a/b-testing-advanced
+Business Intelligence Bootcamp: Beginner Edition,Business Intelligence,Beginner,LinkedIn Learning,13,3.7,9.99,25435,Dr. Brown,2024-12,False,https://example.com/courses/business-intelligence-beginner
+Advanced Business Intelligence Techniques,Business Intelligence,Intermediate,edX,9,5.0,19.99,32004,Dr. Brown,2024-07,False,https://example.com/courses/business-intelligence-intermediate
+Business Intelligence Fundamentals for Intermediate,Business Intelligence,Intermediate,LinkedIn Learning,13,3.9,19.99,41981,Dr. Garcia,2024-10,False,https://example.com/courses/business-intelligence-intermediate
+Advanced Business Intelligence Techniques,Business Intelligence,Advanced,MIT OpenCourseWare,7,3.6,19.99,49512,Dr. Smith,2024-02,True,https://example.com/courses/business-intelligence-advanced
+Learn Business Intelligence - Advanced Tutorial,Business Intelligence,Advanced,Pluralsight,20,4.0,99.99,16463,Dr. Smith,2024-03,True,https://example.com/courses/business-intelligence-advanced
+Advanced TensorFlow Techniques,TensorFlow,Beginner,Udemy,8,4.0,29.99,33280,Dr. Smith,2024-05,True,https://example.com/courses/tensorflow-beginner
+TensorFlow Fundamentals for Beginner,TensorFlow,Beginner,Udemy,16,4.4,49.99,9966,Dr. Brown,2024-07,False,https://example.com/courses/tensorflow-beginner
+TensorFlow Bootcamp: Beginner Edition,TensorFlow,Beginner,Pluralsight,11,4.6,49.99,38473,Dr. Brown,2024-09,False,https://example.com/courses/tensorflow-beginner
+Learn TensorFlow - Intermediate Tutorial,TensorFlow,Intermediate,LinkedIn Learning,20,4.6,19.99,38978,Dr. Garcia,2024-11,True,https://example.com/courses/tensorflow-intermediate
+Advanced TensorFlow Techniques,TensorFlow,Advanced,Udemy,18,3.7,99.99,4205,Dr. Smith,2024-01,True,https://example.com/courses/tensorflow-advanced
+Advanced PyTorch Techniques,PyTorch,Beginner,edX,4,4.1,29.99,28294,Dr. Garcia,2024-04,False,https://example.com/courses/pytorch-beginner
+Complete PyTorch Course for Beginner,PyTorch,Beginner,edX,6,3.7,9.99,37232,Dr. Brown,2024-10,False,https://example.com/courses/pytorch-beginner
+PyTorch Masterclass: From Intermediate to Advanced,PyTorch,Intermediate,Stanford Online,5,3.7,19.99,13491,Dr. Williams,2024-07,False,https://example.com/courses/pytorch-intermediate
+PyTorch Masterclass: From Intermediate to Advanced,PyTorch,Intermediate,DataCamp,15,4.1,49.99,48827,Dr. Miller,2024-01,False,https://example.com/courses/pytorch-intermediate
+Advanced PyTorch Techniques,PyTorch,Advanced,LinkedIn Learning,2,4.0,99.99,27800,Dr. Williams,2024-07,True,https://example.com/courses/pytorch-advanced
+Learn Scikit-learn - Beginner Tutorial,Scikit-learn,Beginner,edX,18,4.1,9.99,42224,Dr. Miller,2024-08,False,https://example.com/courses/scikit-learn-beginner
+Advanced Scikit-learn Techniques,Scikit-learn,Beginner,LinkedIn Learning,12,5.0,49.99,35794,Dr. Brown,2024-08,True,https://example.com/courses/scikit-learn-beginner
+Learn Scikit-learn - Intermediate Tutorial,Scikit-learn,Intermediate,Udemy,10,3.9,9.99,8464,Dr. Jones,2024-04,True,https://example.com/courses/scikit-learn-intermediate
+Advanced Scikit-learn Techniques,Scikit-learn,Intermediate,DataCamp,14,4.1,0.0,47867,Dr. Miller,2024-04,False,https://example.com/courses/scikit-learn-intermediate
+Advanced Scikit-learn Techniques,Scikit-learn,Advanced,MIT OpenCourseWare,18,3.5,99.99,39549,Dr. Garcia,2024-10,True,https://example.com/courses/scikit-learn-advanced
+Learn Scikit-learn - Advanced Tutorial,Scikit-learn,Advanced,edX,18,3.7,19.99,30221,Dr. Miller,2024-09,True,https://example.com/courses/scikit-learn-advanced
+Scikit-learn Masterclass: From Advanced to Advanced,Scikit-learn,Advanced,Pluralsight,8,4.7,29.99,38536,Dr. Garcia,2024-09,False,https://example.com/courses/scikit-learn-advanced

@@ -1,0 +1,211 @@
+profile_id,career,skills,experience_years,education,location,salary,company_size,certifications,projects_completed,github_stars,linkedin_connections
+PROF_6738,Data Scientist,"Documentation, Selenium, API Design, Storm, Oracle, Analytical Thinking, Game Development, Communication, Azure",13,Self-taught,Netherlands,65712,Enterprise,4,14,66,503
+PROF_7435,Data Scientist,"AWS, Security Testing, Shell Scripting, Mobile Development, Angular, GCP, Cost-Benefit Analysis, Terraform, Spark, Vulnerability Assessment",7,Master's,Brazil,69941,Enterprise,5,20,16,991
+PROF_6854,Data Scientist,"Data Cleaning, SPSS, Analytical Thinking, Incident Response, Ruby, Scikit-learn, GitLab CI, Prototyping, Looker",13,Self-taught,Sweden,70228,Mid-size,4,11,23,689
+PROF_2363,Data Scientist,"Julia, TypeScript, Swagger, Data Cleaning, React",12,Bachelor's,Canada,57752,Mid-size,0,7,27,167
+PROF_5385,Data Scientist,"Innovation, Protopie, Django, AWS, Scikit-learn, Game Development, CI/CD, Rust",6,Bachelor's,Canada,83787,Enterprise,2,5,59,515
+PROF_9571,Data Scientist,"Data Governance, Matplotlib, Java, Docker, Jupyter, Business Analysis, Redis, Collaboration, Product Management, Problem Solving",4,Bachelor's,Australia,99852,FAANG,2,16,92,666
+PROF_1804,Data Scientist,"Kanban, Problem Solving, Leadership, Project Management, FastAPI, Change Management, Hadoop, Project Management, Vulnerability Assessment, Cost-Benefit Analysis",12,Self-taught,Canada,60871,Enterprise,4,4,21,427
+PROF_3779,Data Engineer,"Game Development, Penetration Testing, JUnit, Postman, Threat Intelligence, Shell Scripting, Project Management, Storm",6,Bootcamp,Switzerland,97764,Startup,0,19,12,706
+PROF_2779,Data Engineer,"Process Improvement, Conflict Resolution, Reinforcement Learning, Looker, Prototyping, Anaconda, Data Engineering, Ruby, Data Analysis, Hadoop, Time Management",8,PhD,France,90626,Enterprise,3,18,75,322
+PROF_7210,Data Engineer,"Teamwork, Flask, ETL, Analytical Thinking, Principle, Data Visualization, Prototyping, HTML, Requirements Gathering, API Design",13,Bootcamp,Sweden,75889,FAANG,0,5,60,948
+PROF_5644,Data Engineer,"Protopie, GitHub Actions, Seaborn, Data Governance, Knowledge Management, Content Strategy, Reinforcement Learning, Training, C#, R, Stakeholder Management, Stakeholder Management",8,PhD,Canada,79699,Enterprise,4,8,73,530
+PROF_7417,Data Engineer,"Microservices, Stakeholder Management, Model Evaluation, SQL, Time Management",11,Self-taught,Australia,106817,Startup,1,13,24,293
+PROF_7014,Data Engineer,"Mentoring, Conflict Resolution, Seaborn, Creativity, Data Visualization, InVision, Feature Engineering",11,Master's,India,63176,Startup,2,3,45,962
+PROF_3994,Data Engineer,"Matplotlib, Ruby, Confluence, Pandas, Django, Requirements Gathering, Cypress, Feature Engineering, C++, Ansible",14,Self-taught,Australia,68671,Mid-size,0,15,32,432
+PROF_2762,Data Engineer,"Sketch, Application Security, Scrum, Cypress, Data Visualization, JavaScript, TypeScript, Risk Assessment, DynamoDB, Storm",1,Bachelor's,Spain,102574,Enterprise,0,4,43,100
+PROF_4747,Data Engineer,"Data Visualization, Content Strategy, Technical Writing, Cybersecurity, Qlik, API Testing, Shell Scripting, Storm, NumPy, API Design, Conflict Resolution",9,Bachelor's,Netherlands,91520,Enterprise,5,19,67,304
+PROF_7389,Data Engineer,"InVision, Oracle, Conflict Resolution, Training, Model Evaluation, C#, Markdown, Sketch, Vue.js",8,Bachelor's,Sweden,79095,Mid-size,5,8,14,92
+PROF_4196,Data Engineer,"Rust, Project Management, Deep Learning, C#, Markdown, Scrum, Process Improvement, Seaborn",4,Self-taught,Netherlands,87698,Startup,2,19,47,892
+PROF_3932,Data Engineer,"Kubernetes, Kotlin, Knowledge Management, Conflict Resolution, Performance Testing, Change Management, CI/CD, Time Management, Data Governance, GitHub Actions, Ruby, Plotly",11,Bachelor's,India,58982,Startup,0,18,1,327
+PROF_1707,Machine Learning Engineer,"Spring Boot, Teamwork, Hive, Analytical Thinking, Azure, Confluence, C#",6,Bootcamp,Australia,77193,Enterprise,5,13,15,595
+PROF_3531,Machine Learning Engineer,"Documentation, Adaptability, Incident Response, InVision, System Design, CSS, LightGBM, NLP, Shell Scripting, Django, User Research",5,Bachelor's,Japan,50914,FAANG,3,13,5,67
+PROF_1257,Machine Learning Engineer,"Ruby, Git, Spring Boot, Kotlin, Node.js, Presentation Skills, Data Cleaning, JIRA, Vue.js, NLP, System Design",10,Bootcamp,Japan,93576,Mid-size,1,20,59,67
+PROF_9303,Machine Learning Engineer,"XGBoost, Feature Engineering, Distributed Systems, Data Analysis, Oracle, GitLab CI, React, FastAPI",11,Bootcamp,France,98782,Mid-size,3,6,45,886
+PROF_6044,Machine Learning Engineer,"API Testing, Knowledge Management, TensorFlow, Project Management, Pandas, DevOps, Spring Boot, Analytical Thinking",14,Bachelor's,Germany,102982,FAANG,2,9,0,723
+PROF_3169,Machine Learning Engineer,"Requirements Gathering, Content Strategy, Ruby, Presentation Skills, Product Management, SQL Server, Strategic Thinking, Angular, MLOps",12,Self-taught,Netherlands,67827,FAANG,3,6,11,927
+PROF_1019,Machine Learning Engineer,"Flask, Cypress, Django, Data Governance, Ansible",11,Self-taught,Canada,75946,Startup,0,15,53,744
+PROF_3851,Machine Learning Engineer,"Presentation Skills, Anaconda, Design Systems, C#, GitHub Actions",8,Self-taught,France,104827,Enterprise,2,13,62,620
+PROF_6121,Machine Learning Engineer,"Data Governance, Neo4j, Security Testing, Redis, PHP, GCP, C++, API Testing, Azure, Requirements Gathering, NumPy, User Research",10,PhD,Spain,82972,Mid-size,5,8,51,429
+PROF_8959,Machine Learning Engineer,"Incident Response, DynamoDB, Qlik, Markdown, Protopie, Performance Testing, Azure",2,PhD,France,71756,Startup,3,11,10,712
+PROF_2575,Machine Learning Engineer,"Technical Writing, Spring Boot, Power BI, Vue.js, Plotly, Selenium, A/B Testing, PostgreSQL, Rust",6,Bootcamp,United States,71800,FAANG,1,11,84,899
+PROF_8239,Machine Learning Engineer,"Risk Assessment, Markdown, AWS, Requirements Gathering, User Research, Data Engineering, Power BI, Jupyter, Conflict Resolution, Data Cleaning, Pandas, MLOps",3,PhD,France,94114,Enterprise,3,6,55,331
+PROF_6452,Machine Learning Engineer,"Vulnerability Assessment, Flask, Model Evaluation, API Design, Adobe XD, Go, Innovation",14,PhD,Spain,91876,Enterprise,1,7,15,134
+PROF_2051,Machine Learning Engineer,"Protopie, Jupyter, Leadership, Model Evaluation, Express.js, Security Testing, Jenkins, React, SQL",2,Bachelor's,Netherlands,88932,Enterprise,2,20,0,973
+PROF_2480,Software Engineer,"HTML, Confluence, LightGBM, Leadership, Django",12,Master's,Switzerland,109351,Enterprise,0,19,7,190
+PROF_2090,Software Engineer,"TypeScript, Cost-Benefit Analysis, Knowledge Management, JUnit, Leadership, Security Testing, Agile, Data Science, Julia, GitHub Actions, FastAPI, Data Governance",4,Bachelor's,Japan,51779,Mid-size,1,7,25,432
+PROF_4123,Software Engineer,"Cost-Benefit Analysis, Hadoop, Machine Learning, PowerShell, XGBoost, PyTorch, Deep Learning, Knowledge Management, Angular",7,Bootcamp,Sweden,58510,FAANG,5,16,22,432
+PROF_7454,Software Engineer,"Training, Keras, Requirements Gathering, Data Analysis, Hive, Statistics, Sketch",13,Bootcamp,Brazil,53436,Mid-size,1,1,21,797
+PROF_6897,Software Engineer,"Process Improvement, Deep Learning, Business Intelligence, Tableau, Kafka, Data Governance, Project Management, Project Management, Oracle, Shell Scripting",12,Self-taught,Singapore,118201,Enterprise,0,19,8,867
+PROF_6377,Frontend Developer,"Python, Business Intelligence, Azure, Shell Scripting, AWS, A/B Testing, Computer Vision",5,Bachelor's,India,51604,Mid-size,4,20,6,553
+PROF_7119,Frontend Developer,"Ansible, SPSS, Storm, PostgreSQL, Postman",3,Bootcamp,Sweden,81425,Startup,3,18,11,107
+PROF_9397,Frontend Developer,"Tableau, IoT, Game Development, Creativity, XGBoost, DynamoDB, Vue.js, Scala, Incident Response, Network Security, Python, Teamwork",7,PhD,United States,87223,Mid-size,2,13,51,176
+PROF_7377,Frontend Developer,"Bash, Spring Boot, Terraform, Requirements Gathering, Data Cleaning, Kafka, Usability Testing, PowerShell, Jupyter, SAS",3,Bootcamp,Brazil,58038,Mid-size,5,15,56,463
+PROF_9998,Frontend Developer,"Technical Writing, Cost-Benefit Analysis, Qlik, Data Analysis, Design Systems, Creativity, CI/CD, CSS",15,Master's,India,87696,Startup,1,14,17,660
+PROF_3945,Frontend Developer,"R, Flask, GCP, Angular, Azure, Creativity",10,Self-taught,Brazil,78911,FAANG,4,10,63,962
+PROF_4895,Frontend Developer,"DynamoDB, LightGBM, Pig, C#, Spark, Data Analysis, Data Cleaning, API Testing",8,Self-taught,Australia,102852,Enterprise,1,14,91,494
+PROF_3544,Frontend Developer,"Postman, Linux, Looker, Scala, Teamwork",15,PhD,United States,99721,FAANG,2,10,62,942
+PROF_1485,Frontend Developer,"Negotiation, MLOps, System Design, Protopie, Storm",12,Bachelor's,Sweden,118022,Mid-size,0,19,22,821
+PROF_3658,Frontend Developer,"Postman, ETL, Cost-Benefit Analysis, Seaborn, Rust, Project Management, Keras",9,Self-taught,United Kingdom,119534,FAANG,3,15,77,626
+PROF_9532,Frontend Developer,"Leadership, Vulnerability Assessment, Agile, JavaScript, Power BI, SQL, Threat Intelligence, Flink, GitHub Actions, Confluence, Distributed Systems, Seaborn",3,Master's,Singapore,96188,FAANG,1,8,69,172
+PROF_1613,Frontend Developer,"Kotlin, Presentation Skills, Jenkins, Adaptability, InVision, Data Analysis, Flink, Data Visualization, Docker, Hive, GitHub Actions",11,Master's,Netherlands,110060,Enterprise,0,9,33,54
+PROF_2780,Frontend Developer,"Problem Solving, Application Security, Markdown, Seaborn, Statistics, Creativity, Adaptability",13,Bachelor's,Sweden,70948,Enterprise,0,13,60,294
+PROF_3528,Frontend Developer,"Stakeholder Management, Project Management, Cassandra, Python, Jupyter, Time Management, Julia, Linux, TensorFlow, Node.js, Change Management",6,Bootcamp,Germany,90573,Startup,1,1,22,178
+PROF_3988,Frontend Developer,"Protopie, Swagger, Hive, SAS, Looker, Content Strategy, Matplotlib, Node.js, Ansible, Jupyter, Stakeholder Management",9,Master's,United States,77095,Startup,4,13,42,112
+PROF_7339,Backend Developer,"Analytical Thinking, DevOps, Distributed Systems, Pig, Stakeholder Management, Active Listening, Swift",12,Master's,Germany,93543,Mid-size,1,18,36,127
+PROF_3255,Backend Developer,"NumPy, Innovation, Data Governance, Mobile Development, Threat Intelligence, Analytical Thinking, JUnit, Flask",3,Self-taught,Australia,97040,Mid-size,5,3,18,225
+PROF_5412,Backend Developer,"Usability Testing, Vulnerability Assessment, Elasticsearch, GCP, Time Management, Hadoop, SPSS, PostgreSQL, Keras, Application Security, Training, SQL Server",6,Master's,Australia,58345,Mid-size,1,8,12,397
+PROF_4206,Backend Developer,"Data Warehousing, Data Cleaning, Data Visualization, Scala, HTML, Cassandra, TypeScript",1,Bachelor's,United Kingdom,116094,Startup,3,19,53,330
+PROF_4411,Backend Developer,"Technical Writing, Flask, PowerShell, Data Analysis, Git",7,PhD,Canada,63988,Startup,0,17,64,318
+PROF_8419,Backend Developer,"Swift, Usability Testing, Principle, Critical Thinking, Design Systems, Business Analysis, PHP, Training, Deep Learning, ETL, Conflict Resolution, Active Listening",2,PhD,United Kingdom,85865,Startup,5,7,29,720
+PROF_8828,Backend Developer,"XGBoost, GitHub Actions, Anaconda, Data Science, GCP, Kanban, Problem Solving, Content Strategy, Protopie",2,Master's,Sweden,70948,Mid-size,5,1,34,526
+PROF_1772,Backend Developer,"AWS, Machine Learning, HTML, Leadership, Java, Protopie, Critical Thinking, GitHub Actions, Business Intelligence, Change Management, FastAPI, Cybersecurity",9,Self-taught,Brazil,104394,FAANG,1,8,3,893
+PROF_7705,Backend Developer,"Time Management, ETL, Blockchain, Pandas, Microservices, Scrum, Training, Business Analysis, Ruby, Looker, SQL Server",2,Bachelor's,Singapore,117678,Mid-size,0,18,10,606
+PROF_8859,Backend Developer,"Stakeholder Management, JIRA, Data Engineering, Bash, XGBoost, Distributed Systems, Critical Thinking, Julia, Change Management, CSS",9,PhD,France,109506,Enterprise,0,18,83,947
+PROF_4675,Backend Developer,"GitLab CI, Bash, AWS, Active Listening, Keras, MATLAB, Express.js, Kotlin, Kanban, NumPy, GCP",5,Self-taught,Brazil,69422,FAANG,1,1,21,199
+PROF_5533,Backend Developer,"API Design, Critical Thinking, Data Science, Adobe XD, GitLab CI, Machine Learning, Data Governance",6,Master's,Canada,113701,Enterprise,1,7,66,944
+PROF_7191,Backend Developer,"Docker, JavaScript, Hive, FastAPI, Jupyter, Strategic Thinking, Cost-Benefit Analysis, Principle, A/B Testing, Time Management, Microservices, JUnit",9,Master's,Switzerland,74920,Startup,5,1,21,415
+PROF_5443,Backend Developer,"A/B Testing, Agile, Distributed Systems, Ruby, HTML, SQL, Business Intelligence",3,Master's,Netherlands,76025,FAANG,5,16,29,529
+PROF_7204,DevOps Engineer,"TensorFlow, Ruby, Qlik, Tableau, Stakeholder Management, Statistics, System Design, Reinforcement Learning, SAS, NumPy, PyTorch",1,Self-taught,India,100174,Startup,4,3,63,706
+PROF_2877,DevOps Engineer,"R, Adaptability, DynamoDB, Swift, Content Strategy, Communication, Strategic Thinking, Flask, Incident Response, Anaconda, Seaborn",15,Bachelor's,United States,87790,Mid-size,3,13,56,307
+PROF_5572,DevOps Engineer,"Requirements Gathering, Swagger, Flink, System Design, Kafka, Distributed Systems, SPSS, Mobile Development, MATLAB",14,Self-taught,Canada,67934,Startup,3,14,67,443
+PROF_5904,DevOps Engineer,"JIRA, Threat Intelligence, Presentation Skills, Power BI, Cost-Benefit Analysis, NLP, Security Testing, Documentation, Feature Engineering, Teamwork, MongoDB",12,Master's,Netherlands,73232,Mid-size,5,18,27,983
+PROF_1620,DevOps Engineer,"Matplotlib, Creativity, Computer Vision, JavaScript, Pandas, Prototyping, Markdown",3,Bootcamp,France,117017,Mid-size,3,13,89,358
+PROF_3567,DevOps Engineer,"MongoDB, Project Management, Negotiation, Flink, Threat Intelligence, Storm, Game Development, Business Intelligence, Kotlin, Spring Boot, Statistics",9,Bootcamp,Singapore,67105,Startup,4,6,70,723
+PROF_2038,DevOps Engineer,"Incident Response, Ansible, Julia, PostgreSQL, Shell Scripting, Presentation Skills, Problem Solving, Performance Testing, Project Management, Creativity",6,PhD,Switzerland,118914,Enterprise,3,3,32,500
+PROF_4986,DevOps Engineer,"Go, Sketch, Hive, Git, Business Intelligence, Presentation Skills, Oracle, Process Improvement, Stakeholder Management, Flask, DevOps, Storm",5,Bachelor's,Netherlands,50951,Mid-size,2,20,38,659
+PROF_6399,DevOps Engineer,"Markdown, Vue.js, Training, Pandas, Jupyter, Data Cleaning",13,Self-taught,France,64241,Mid-size,3,10,1,262
+PROF_5055,DevOps Engineer,"Principle, Process Improvement, Requirements Gathering, Jenkins, Design Systems, Ansible, GCP, Stakeholder Management",2,PhD,France,61254,Startup,3,12,100,739
+PROF_7784,DevOps Engineer,"PostgreSQL, Plotly, JIRA, Tableau, Training, Network Security, Keras, Design Systems, Strategic Thinking, Computer Vision, Presentation Skills",10,Bachelor's,Japan,75465,Startup,5,5,91,808
+PROF_4960,DevOps Engineer,"PostgreSQL, A/B Testing, FastAPI, Risk Assessment, Technical Writing",6,Bootcamp,Netherlands,119157,Enterprise,4,8,42,382
+PROF_5962,Product Manager,"JavaScript, GCP, Content Strategy, Express.js, CSS, Incident Response, Azure, Ruby, MongoDB, Redis",9,PhD,Netherlands,55929,Startup,2,15,99,358
+PROF_9640,Product Manager,"GitLab CI, Anaconda, GitHub Actions, Project Management, JavaScript, Conflict Resolution, SQL, Postman, TypeScript",9,Master's,Australia,53053,FAANG,3,5,32,56
+PROF_2783,Product Manager,"React, GitHub Actions, Application Security, PHP, SPSS, Threat Intelligence, MATLAB, Distributed Systems, CSS, Sketch, Microservices, Data Visualization",6,Master's,Germany,100254,FAANG,0,10,0,631
+PROF_9359,Product Manager,"Jenkins, Qlik, Cybersecurity, Anaconda, Data Engineering, JIRA",3,Self-taught,United States,93305,Startup,4,8,76,398
+PROF_4604,Product Manager,"Adobe XD, Teamwork, Ansible, Data Warehousing, Flink, TypeScript, Analytical Thinking, Kubernetes, Feature Engineering, Threat Intelligence, Vulnerability Assessment",14,Bootcamp,United States,53978,FAANG,5,2,20,327
+PROF_7303,Product Manager,"Rust, Security Testing, TensorFlow, Looker, Git, Microservices, CI/CD, Cybersecurity, System Design, Technical Writing, Computer Vision, InVision",8,Bootcamp,Switzerland,53530,Mid-size,0,19,95,273
+PROF_8682,Product Manager,"Flink, Sketch, Data Engineering, Vue.js, Knowledge Management, Angular, Distributed Systems, Computer Vision, Redis, Protopie",8,PhD,Spain,79272,FAANG,3,4,5,931
+PROF_6499,Product Manager,"Project Management, Data Visualization, Qlik, DynamoDB, Innovation, Swagger, Bash, GCP, Mobile Development, Plotly, Requirements Gathering",11,Master's,Canada,60806,FAANG,1,1,68,563
+PROF_6851,Product Manager,"Power BI, LightGBM, IoT, Ansible, MongoDB, Go, Statistics, SQL, Stakeholder Management, Business Analysis, Docker",2,Self-taught,Brazil,83082,FAANG,1,16,29,332
+PROF_3549,Product Manager,"Swagger, Feature Engineering, Markdown, Content Strategy, Model Evaluation, Teamwork, Incident Response, Cost-Benefit Analysis",11,Bootcamp,Switzerland,74246,Startup,5,13,50,764
+PROF_9512,Product Manager,"React, LightGBM, Storm, Deep Learning, Rust, Principle, Data Visualization, Penetration Testing, Java, Git, Mentoring",7,Bootcamp,Canada,70720,Enterprise,5,18,49,376
+PROF_8839,Product Manager,"Statistics, DynamoDB, Cost-Benefit Analysis, Model Evaluation, Negotiation, Cybersecurity, Python, Sketch, System Design, Agile",5,Bachelor's,Sweden,114393,Enterprise,1,16,12,208
+PROF_1358,Product Manager,"Confluence, Selenium, Data Governance, Strategic Thinking, Postman, Content Strategy, JUnit, Go",14,Bachelor's,Switzerland,101567,Enterprise,1,16,86,676
+PROF_6358,Product Manager,"Kotlin, C#, Bash, ETL, Power BI, Documentation, Spring Boot, Stakeholder Management, SPSS, Data Engineering",10,Master's,Australia,63497,Mid-size,3,9,50,926
+PROF_7224,UX Designer,"Spark, Principle, C++, Collaboration, Anaconda",9,Bachelor's,Australia,70900,Enterprise,5,14,31,409
+PROF_8415,UX Designer,"Knowledge Management, GitHub Actions, IoT, GCP, Terraform, Performance Testing, Pytest, Go, Communication, Express.js, SPSS",6,Bootcamp,Germany,69986,Startup,2,20,79,788
+PROF_6048,UX Designer,"Docker, Terraform, Kafka, Go, GitHub Actions, Feature Engineering, Data Analysis, Data Science, Angular, Julia, PostgreSQL, Blockchain",7,PhD,Brazil,81811,Enterprise,3,14,19,135
+PROF_6728,UX Designer,"Stakeholder Management, Data Governance, Django, Data Science, MATLAB, Git, Content Strategy, Technical Writing, GitLab CI, Statistics",13,Master's,United States,116780,Enterprise,0,4,92,771
+PROF_5545,UX Designer,"Protopie, Leadership, PyTorch, Game Development, Business Analysis, Collaboration, Business Intelligence",11,Bachelor's,Germany,113749,Mid-size,5,12,86,928
+PROF_2389,UX Designer,"Risk Assessment, Leadership, Seaborn, PHP, Figma, Protopie, Adobe XD, React",3,Bootcamp,Sweden,68310,Enterprise,1,13,52,316
+PROF_7863,UX Designer,"Terraform, Application Security, Protopie, Threat Intelligence, Confluence, Scikit-learn, Jenkins",12,Bachelor's,Spain,51164,Mid-size,0,17,59,948
+PROF_3980,UX Designer,"Machine Learning, System Design, MLOps, Feature Engineering, Django, Ansible, Linux, Change Management",15,Self-taught,Singapore,103916,Enterprise,2,1,70,320
+PROF_8974,UX Designer,"User Research, Feature Engineering, API Testing, Python, GCP, Terraform, Data Analysis, Data Engineering, Machine Learning, Threat Intelligence",2,Bachelor's,France,107152,FAANG,5,11,83,870
+PROF_8265,Data Analyst,"Terraform, Microservices, Julia, MongoDB, Seaborn, DevOps, Data Cleaning, JUnit, Usability Testing, XGBoost",12,Self-taught,Switzerland,88803,Mid-size,4,18,84,665
+PROF_6193,Data Analyst,"SQL, Power BI, Markdown, SAS, Reinforcement Learning, Strategic Thinking",10,Bachelor's,Canada,117995,Enterprise,3,11,53,962
+PROF_2780,Data Analyst,"Seaborn, Critical Thinking, InVision, Express.js, Angular, Sketch, DevOps, Vue.js, Node.js",9,Bachelor's,United Kingdom,115924,Mid-size,5,11,3,414
+PROF_9559,Data Analyst,"Deep Learning, Application Security, JUnit, Qlik, Statistics, Feature Engineering, CI/CD, SPSS",2,Bootcamp,Germany,119022,Enterprise,3,16,85,943
+PROF_2506,Data Analyst,"Documentation, Confluence, Project Management, Scala, Angular, Cybersecurity, Pig",11,Bootcamp,Netherlands,98824,FAANG,5,15,0,706
+PROF_4429,Data Analyst,"Plotly, Microservices, Security Testing, Creativity, Game Development, GitHub Actions, JavaScript, Swagger, Analytical Thinking, Data Visualization, Collaboration, Application Security",13,Bachelor's,Japan,62316,Startup,0,18,46,167
+PROF_9529,Data Analyst,"Kubernetes, C++, Postman, Protopie, Content Strategy, Presentation Skills",15,Bachelor's,United States,109071,Startup,5,18,49,955
+PROF_8760,Data Analyst,"Scala, Feature Engineering, CI/CD, Kanban, JUnit",6,Self-taught,India,112312,Enterprise,3,13,57,282
+PROF_9354,Data Analyst,"Business Analysis, Matplotlib, SPSS, Technical Writing, Hadoop, Conflict Resolution, Data Warehousing, Documentation, Presentation Skills, XGBoost, Markdown",5,PhD,India,85666,Enterprise,3,8,59,666
+PROF_1986,Data Analyst,"Process Improvement, Matplotlib, Statistics, MongoDB, PowerShell, Threat Intelligence",6,Bachelor's,Germany,95923,Mid-size,5,10,10,875
+PROF_6601,Data Analyst,"CI/CD, Ruby, Blockchain, JavaScript, AWS, Cassandra, Terraform, Analytical Thinking, Kubernetes, Data Engineering, IoT, Sketch",1,Master's,France,119573,Enterprise,0,2,65,59
+PROF_9592,Data Analyst,"Performance Testing, NumPy, PHP, Jenkins, Django",4,PhD,France,111045,FAANG,0,20,86,768
+PROF_9074,Data Analyst,"Cassandra, C#, MySQL, Django, GitLab CI, XGBoost, MongoDB, Feature Engineering, API Testing",13,Self-taught,Brazil,104920,FAANG,4,15,94,346
+PROF_7246,Business Analyst,"Statistics, Adobe XD, Keras, PyTorch, Swift, Training, Microservices",1,Bootcamp,Brazil,86732,Startup,1,19,44,134
+PROF_8312,Business Analyst,"Seaborn, GCP, Design Systems, Training, Swagger, SQL, Kubernetes, Distributed Systems",15,PhD,France,117484,Mid-size,4,8,58,291
+PROF_5824,Business Analyst,"TensorFlow, Java, Conflict Resolution, PowerShell, Game Development, Feature Engineering, Redis, Project Management, Hadoop, Distributed Systems, Flink",12,Bachelor's,United States,55507,Startup,4,12,88,208
+PROF_5922,Business Analyst,"Power BI, Negotiation, Conflict Resolution, Business Intelligence, Presentation Skills, Game Development, Application Security, Security Testing",3,Bootcamp,Japan,102287,Startup,3,19,32,77
+PROF_4125,Business Analyst,"C++, Risk Assessment, DynamoDB, Distributed Systems, Scikit-learn",9,PhD,Australia,80522,FAANG,0,2,16,351
+PROF_8515,Business Analyst,"Strategic Thinking, Data Science, MongoDB, React, Principle, CI/CD, Business Intelligence",2,Bachelor's,France,83605,Mid-size,2,20,2,224
+PROF_5396,Business Analyst,"Problem Solving, Data Governance, Critical Thinking, Docker, Conflict Resolution, NLP, Performance Testing, Strategic Thinking, Spring Boot, Express.js",13,Bachelor's,Germany,87465,Enterprise,3,2,96,702
+PROF_7334,Business Analyst,"Tableau, Cassandra, Security Testing, Model Evaluation, Vue.js, Blockchain, FastAPI, Spring Boot, GCP, Technical Writing, XGBoost",1,PhD,Singapore,67181,Enterprise,0,14,39,750
+PROF_1911,Business Analyst,"Penetration Testing, Rust, Azure, Python, GCP, Strategic Thinking",1,Bootcamp,Singapore,92673,Mid-size,0,19,5,545
+PROF_8114,Business Analyst,"Adobe XD, Usability Testing, Problem Solving, CI/CD, Cost-Benefit Analysis, Kubernetes",5,Master's,Germany,58687,Startup,4,11,97,994
+PROF_1218,Cloud Architect,"Java, Jupyter, Oracle, Design Systems, Terraform, Collaboration, Incident Response, Content Strategy, SQL, Usability Testing, Bash, MLOps",8,Master's,Sweden,80417,Enterprise,2,10,62,284
+PROF_5956,Cloud Architect,"Jupyter, Microservices, JavaScript, DevOps, Spark, Usability Testing, Content Strategy, LightGBM, PostgreSQL, XGBoost",1,Master's,Germany,110320,Startup,2,14,97,526
+PROF_1393,Cloud Architect,"Storm, API Testing, Oracle, InVision, Rust, PyTorch, Teamwork, Business Intelligence, Communication, ETL",14,Self-taught,Singapore,89601,Enterprise,0,7,28,369
+PROF_4861,Cloud Architect,"XGBoost, ETL, GitHub Actions, Oracle, Game Development, MLOps, Looker, Cybersecurity, Scikit-learn, HTML",15,Bachelor's,Sweden,107773,Enterprise,2,4,48,667
+PROF_5286,Cloud Architect,"Neo4j, Redis, Flask, Change Management, Computer Vision, Documentation, Keras, Kubernetes, Performance Testing, Conflict Resolution",6,Bachelor's,Netherlands,62525,FAANG,5,5,0,119
+PROF_9364,Cloud Architect,"Reinforcement Learning, Agile, Critical Thinking, Adaptability, Swagger, SQL, Spring Boot, Stakeholder Management, Flask",13,PhD,Germany,97996,Startup,4,1,95,271
+PROF_7729,Cloud Architect,"InVision, PyTorch, Tableau, Feature Engineering, Flink, Cypress, Deep Learning, Git",12,PhD,Sweden,101938,FAANG,4,6,23,345
+PROF_5957,Cloud Architect,"Microservices, Storm, Oracle, Protopie, Usability Testing, Data Science, C++, Pig, Presentation Skills",8,Bootcamp,Canada,75318,Mid-size,2,9,60,679
+PROF_8595,Cloud Architect,"Go, Protopie, Kubernetes, A/B Testing, MATLAB, Application Security",12,Bachelor's,United Kingdom,80448,Mid-size,1,13,91,738
+PROF_8840,Cloud Architect,"Angular, Vue.js, JavaScript, Swift, Distributed Systems",11,Master's,Singapore,78226,Mid-size,4,4,80,675
+PROF_8269,Cloud Architect,"ETL, Training, PHP, Elasticsearch, Computer Vision, TensorFlow, JIRA, Postman, A/B Testing, Threat Intelligence",4,PhD,France,114125,FAANG,1,4,50,149
+PROF_6855,Cybersecurity Analyst,"Cybersecurity, Bash, Project Management, Presentation Skills, Communication, CI/CD, Rust, Redis, Pytest",4,Master's,United Kingdom,94646,Mid-size,0,6,95,905
+PROF_3019,Cybersecurity Analyst,"Power BI, IoT, NumPy, PHP, Communication, Innovation, Pytest",9,Bootcamp,United Kingdom,111224,Enterprise,3,11,9,278
+PROF_1921,Cybersecurity Analyst,"Kubernetes, Scikit-learn, Swagger, Seaborn, Tableau",14,Bootcamp,Brazil,103411,FAANG,5,2,60,727
+PROF_3308,Cybersecurity Analyst,"Vue.js, Angular, DynamoDB, Penetration Testing, Terraform, R, Tableau, FastAPI, Time Management",11,PhD,United Kingdom,85069,Mid-size,0,4,95,404
+PROF_1176,Cybersecurity Analyst,"Figma, Collaboration, Matplotlib, Keras, R, A/B Testing, Kafka, SPSS, Statistics, InVision",2,PhD,Singapore,55733,Enterprise,5,13,86,430
+PROF_7466,Cybersecurity Analyst,"TypeScript, GitLab CI, MySQL, System Design, PostgreSQL, NLP, Jupyter, MongoDB",11,Master's,United States,67943,Startup,5,2,49,790
+PROF_5779,Cybersecurity Analyst,"MLOps, API Testing, Threat Intelligence, Analytical Thinking, Spark, JIRA, Docker, GitLab CI, Anaconda",14,Bachelor's,Singapore,100579,FAANG,3,6,30,470
+PROF_4699,Cybersecurity Analyst,"Distributed Systems, Qlik, Matplotlib, Incident Response, Bash",7,Master's,Netherlands,56394,Startup,4,2,40,158
+PROF_6986,AI Research Scientist,"Azure, Communication, Stakeholder Management, Neo4j, Node.js, JUnit, Performance Testing, Qlik",3,Bootcamp,Japan,109974,Mid-size,4,1,84,864
+PROF_8463,AI Research Scientist,"Threat Intelligence, Flink, Azure, Requirements Gathering, Julia, Tableau, Data Warehousing, Kafka, Git",13,Self-taught,Spain,69653,Enterprise,0,10,33,871
+PROF_6478,AI Research Scientist,"Stakeholder Management, SQL, Presentation Skills, C#, Looker, Critical Thinking, Requirements Gathering, Shell Scripting, Documentation",7,Bachelor's,Japan,71822,Mid-size,0,19,87,355
+PROF_2397,AI Research Scientist,"Java, Postman, Teamwork, Vulnerability Assessment, Data Governance",13,Self-taught,Singapore,66345,Startup,3,18,33,366
+PROF_1594,AI Research Scientist,"Risk Assessment, Incident Response, Terraform, Agile, Scrum, Critical Thinking, Kafka, R",6,Bootcamp,Brazil,85397,Mid-size,4,3,58,261
+PROF_5333,AI Research Scientist,"MongoDB, Prototyping, Linux, Looker, Data Engineering, Pig, MySQL, A/B Testing, React, JavaScript",11,Bootcamp,Australia,63813,Startup,2,14,97,246
+PROF_4014,AI Research Scientist,"Plotly, Jupyter, Power BI, IoT, Innovation, Business Intelligence, Data Analysis, Azure, Django",7,Master's,United States,98749,Mid-size,2,20,82,179
+PROF_4899,AI Research Scientist,"User Research, Plotly, Distributed Systems, Looker, Mentoring, Django, GitHub Actions, Presentation Skills",14,Master's,Sweden,98241,Enterprise,0,1,76,929
+PROF_7326,Full Stack Developer,"ETL, Project Management, Matplotlib, Cost-Benefit Analysis, Postman, Scala, Python, Knowledge Management, C++, Penetration Testing, Adobe XD",8,Bachelor's,Canada,106744,Startup,2,6,96,388
+PROF_5381,Full Stack Developer,"Elasticsearch, Flask, A/B Testing, Selenium, Statistics, Anaconda",8,PhD,Netherlands,118369,Startup,1,17,67,489
+PROF_7397,Full Stack Developer,"Data Governance, C++, TypeScript, Scikit-learn, IoT, Cybersecurity",9,Bachelor's,Singapore,66466,FAANG,3,3,94,888
+PROF_6757,Full Stack Developer,"Looker, Training, Shell Scripting, Performance Testing, Mobile Development",12,Master's,Sweden,52984,Startup,2,11,15,154
+PROF_6440,Full Stack Developer,"ETL, Julia, Java, Mobile Development, Presentation Skills, Critical Thinking, Threat Intelligence, Data Analysis, Problem Solving, Penetration Testing, Confluence, User Research",6,PhD,France,59938,Startup,0,17,89,382
+PROF_1697,Mobile Developer,"Kotlin, DevOps, MySQL, Creativity, Security Testing, Design Systems, Principle, Sketch, System Design",10,PhD,Spain,89661,FAANG,2,11,9,328
+PROF_2612,Mobile Developer,"Shell Scripting, SAS, Spark, Git, User Research, Adobe XD",15,Bachelor's,Canada,65959,FAANG,5,5,83,864
+PROF_4188,Mobile Developer,"Elasticsearch, Azure, Confluence, Seaborn, PHP, DynamoDB, Model Evaluation, Documentation, CI/CD, JUnit",14,PhD,United States,84510,FAANG,1,2,50,809
+PROF_1176,Mobile Developer,"AWS, Confluence, Risk Assessment, Spark, Penetration Testing, Ansible, Problem Solving, LightGBM, Cassandra, Performance Testing, C++",2,Self-taught,France,99811,FAANG,5,17,45,154
+PROF_5040,Mobile Developer,"Critical Thinking, Kafka, Communication, Project Management, Data Science, Bash, Application Security, Computer Vision, Design Systems",6,PhD,France,71750,FAANG,5,3,98,347
+PROF_2637,Mobile Developer,"Time Management, Strategic Thinking, Presentation Skills, C#, Application Security, Ruby, Feature Engineering, Selenium, NumPy",4,PhD,Australia,86301,FAANG,1,10,97,115
+PROF_4015,Mobile Developer,"User Research, Training, Oracle, Cassandra, Agile, Hadoop, Jenkins, Sketch, Anaconda",1,PhD,Germany,92493,Startup,2,6,70,459
+PROF_3123,Mobile Developer,"DynamoDB, Strategic Thinking, Project Management, Pandas, Ansible, Penetration Testing, MySQL, Mobile Development, Java",1,PhD,Singapore,85751,FAANG,4,2,22,96
+PROF_1507,Mobile Developer,"SPSS, PyTorch, Adobe XD, MongoDB, CSS, Qlik",9,PhD,United States,63316,Startup,3,9,63,531
+PROF_3147,Mobile Developer,"Critical Thinking, Kafka, SQL Server, API Design, Oracle, Performance Testing",4,Bachelor's,United States,90112,Enterprise,0,3,81,293
+PROF_5825,Mobile Developer,"Storm, Tableau, GitHub Actions, PyTorch, Principle, JavaScript, Critical Thinking, JUnit, Data Warehousing, InVision",8,Self-taught,Sweden,117152,Startup,0,17,65,962
+PROF_4403,Mobile Developer,"Django, Agile, Reinforcement Learning, Figma, Vue.js, Usability Testing, Kafka, Sketch",1,Self-taught,United Kingdom,62309,Mid-size,0,16,67,531
+PROF_4198,QA Engineer,"TypeScript, Data Engineering, Statistics, Product Management, PowerShell, Kubernetes, HTML, Storm",2,Bootcamp,India,77130,Mid-size,2,10,63,878
+PROF_4805,QA Engineer,"Design Systems, Jupyter, Requirements Gathering, Oracle, JIRA, Elasticsearch, C#, Principle, Flask, Change Management",11,Self-taught,Australia,79048,Mid-size,0,13,28,642
+PROF_7556,QA Engineer,"Analytical Thinking, Product Management, JavaScript, Selenium, Java",15,Bachelor's,Japan,102298,FAANG,1,2,59,869
+PROF_3067,QA Engineer,"JUnit, LightGBM, Anaconda, Figma, Penetration Testing, InVision, Neo4j, C#, Pandas",11,Master's,Spain,52732,FAANG,1,9,35,750
+PROF_2547,QA Engineer,"GitHub Actions, Kanban, Time Management, Data Science, Rust, Matplotlib, Innovation",4,Master's,France,93672,Enterprise,4,2,70,140
+PROF_3825,QA Engineer,"Principle, PyTorch, Strategic Thinking, API Testing, SPSS, Data Governance, Figma, Pig, Conflict Resolution, Pandas, Data Science",5,Master's,Spain,114781,Mid-size,3,16,56,445
+PROF_2428,QA Engineer,"Data Science, Java, PHP, Cybersecurity, Looker, Qlik",11,Bootcamp,Canada,109018,FAANG,5,16,35,733
+PROF_3202,QA Engineer,"Pandas, Communication, Django, Angular, Documentation, Presentation Skills, IoT, XGBoost, Usability Testing, Cypress",8,PhD,Switzerland,58174,Mid-size,1,16,57,886
+PROF_3278,QA Engineer,"Cypress, Agile, PHP, Game Development, Deep Learning, XGBoost, Git, Application Security",2,Bootcamp,Canada,103772,FAANG,5,18,89,364
+PROF_3119,QA Engineer,"Elasticsearch, Product Management, Requirements Gathering, Terraform, Strategic Thinking, Model Evaluation, CSS, React, Spring Boot",15,PhD,Brazil,96315,FAANG,1,8,69,86
+PROF_4428,QA Engineer,"Mentoring, GCP, Principle, Feature Engineering, PowerShell",6,Self-taught,Germany,65636,FAANG,2,15,42,966
+PROF_9096,QA Engineer,"Git, Business Analysis, Incident Response, Machine Learning, User Research, LightGBM, Problem Solving, A/B Testing",3,Self-taught,United States,53599,Startup,1,12,47,198
+PROF_2604,Technical Writer,"Scala, Selenium, Change Management, Pig, Django",14,Master's,Switzerland,73090,Mid-size,4,20,6,433
+PROF_6414,Technical Writer,"Anaconda, Blockchain, Ansible, Design Systems, Vue.js",3,PhD,Brazil,112621,FAANG,2,1,100,666
+PROF_7299,Technical Writer,"Bash, Mobile Development, XGBoost, Django, Keras, Game Development, Data Governance",12,Master's,United States,103022,FAANG,2,1,37,319
+PROF_3008,Technical Writer,"JIRA, GitLab CI, Design Systems, Cost-Benefit Analysis, Vulnerability Assessment, Spark",4,Bachelor's,Australia,99413,Startup,5,20,96,986
+PROF_1919,Technical Writer,"Ansible, Documentation, Business Intelligence, Data Governance, Technical Writing, Application Security, Mobile Development, Project Management, Kanban, Data Warehousing, Stakeholder Management",10,Bootcamp,Netherlands,111706,Startup,4,20,39,476
+PROF_4596,Technical Writer,"Qlik, Usability Testing, Redis, Data Science, Business Intelligence, Flask, Blockchain, Terraform, Prototyping, TensorFlow",4,Bachelor's,Canada,110601,Startup,5,4,5,508
+PROF_2910,Technical Writer,"Jenkins, Application Security, CSS, Anaconda, Business Intelligence, Cybersecurity, Technical Writing",11,Bachelor's,Australia,77773,Enterprise,5,18,21,209
+PROF_7051,Technical Writer,"Collaboration, Documentation, DynamoDB, HTML, XGBoost, Feature Engineering",6,Self-taught,Sweden,50885,Mid-size,2,10,33,738
+PROF_7112,Technical Writer,"Seaborn, Business Intelligence, PyTorch, Flink, Vue.js, Swagger, Azure, Model Evaluation, Strategic Thinking, Shell Scripting",4,Master's,Australia,100184,Enterprise,1,19,78,300
+PROF_6372,Technical Writer,"Analytical Thinking, SQL Server, C++, Shell Scripting, Kubernetes, Docker",2,PhD,Sweden,97421,Enterprise,3,12,84,836
+PROF_4711,Data Architect,"User Research, Agile, InVision, Feature Engineering, Game Development, Reinforcement Learning",3,Bootcamp,Japan,93177,Startup,0,4,99,432
+PROF_6447,Data Architect,"Principle, PostgreSQL, JavaScript, Security Testing, Deep Learning, React, DevOps, Pandas, Jenkins",8,Bachelor's,Switzerland,51947,Enterprise,0,2,7,606
+PROF_8525,Data Architect,"Matplotlib, Tableau, JIRA, Oracle, Pandas, Statistics, Kanban",15,Self-taught,Spain,118625,Enterprise,2,16,95,593
+PROF_3881,Data Architect,"Feature Engineering, Cypress, Seaborn, Usability Testing, Distributed Systems, DevOps, Anaconda, Documentation, MySQL",12,Master's,Canada,93531,Enterprise,5,1,65,449
+PROF_3125,Data Architect,"Creativity, PyTorch, C#, Figma, CSS, Critical Thinking, MySQL, Spring Boot, InVision",9,Master's,Sweden,91912,FAANG,5,2,22,924
+PROF_8550,Data Architect,"Vue.js, SAS, Problem Solving, MATLAB, Feature Engineering, Distributed Systems, API Design, Pandas, Elasticsearch",7,Self-taught,United States,113596,Startup,1,4,7,899
+PROF_4575,Data Architect,"R, MLOps, Go, Collaboration, DynamoDB, Git, Mobile Development",1,Bachelor's,Brazil,55047,FAANG,3,15,58,801
+PROF_5851,Data Architect,"MySQL, JIRA, JUnit, Sketch, AWS, C#, Knowledge Management",2,Bootcamp,Germany,77223,Enterprise,1,18,34,552
+PROF_5913,Data Architect,"Data Science, Kanban, Linux, Presentation Skills, TensorFlow, SAS, XGBoost, Project Management, User Research, Deep Learning, DevOps",11,PhD,Canada,108333,Mid-size,1,5,60,531
+PROF_6085,Data Architect,"Reinforcement Learning, Data Science, Project Management, Data Warehousing, Power BI, Content Strategy, Agile",5,PhD,Spain,67207,Mid-size,2,6,9,906
+PROF_6017,MLOps Engineer,"Active Listening, Leadership, Machine Learning, Content Strategy, HTML, Docker, Prototyping, Strategic Thinking, Protopie, Project Management",4,Master's,Sweden,69106,Enterprise,0,1,89,851
+PROF_7593,MLOps Engineer,"Matplotlib, Negotiation, Protopie, Cypress, Scikit-learn",3,Master's,United States,71253,Startup,2,8,42,136
+PROF_1272,MLOps Engineer,"Documentation, Change Management, Docker, Rust, Terraform, Prototyping, Time Management, CI/CD",1,PhD,Japan,109305,Enterprise,4,15,54,769
+PROF_3224,MLOps Engineer,"Node.js, Postman, Data Warehousing, Confluence, Pytest, TypeScript, Project Management, Feature Engineering, Active Listening, CI/CD, System Design, C++",13,Self-taught,Switzerland,68547,Enterprise,2,16,62,94
+PROF_8747,MLOps Engineer,"MongoDB, Deep Learning, A/B Testing, Knowledge Management, Spring Boot, Risk Assessment, Leadership",6,Self-taught,United States,103510,Mid-size,2,18,47,393
+PROF_6951,MLOps Engineer,"Power BI, Selenium, SPSS, SAS, AWS, C#, Go, Node.js",13,Self-taught,United Kingdom,93608,Startup,5,18,73,477
+PROF_7484,MLOps Engineer,"Business Intelligence, PHP, Business Analysis, Matplotlib, Kotlin, ETL, Swagger, Adobe XD",6,Bachelor's,Australia,67324,Enterprise,4,4,66,939
+PROF_5442,MLOps Engineer,"Network Security, Product Management, XGBoost, Blockchain, Elasticsearch, Go, Matplotlib, Flask, Time Management, HTML, Jupyter, Scala",10,Bootcamp,United States,103722,Enterprise,2,5,19,240
+PROF_4659,MLOps Engineer,"Machine Learning, Markdown, Protopie, Confluence, Kanban, Azure, Scrum, Feature Engineering, Leadership, ETL, Application Security",7,Master's,Netherlands,106268,Startup,4,4,71,391

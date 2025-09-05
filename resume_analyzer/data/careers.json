@@ -1,0 +1,257 @@
+{
+    "careers": {
+        "Data Scientist": {
+            "description": "Analyzes complex data to help organizations make better decisions",
+            "required_skills": {
+                "Python": 10,
+                "SQL": 9,
+                "Machine Learning": 9,
+                "Statistics": 8,
+                "Data Visualization": 7,
+                "Pandas": 8,
+                "NumPy": 7,
+                "Scikit-learn": 8,
+                "Jupyter": 6,
+                "Git": 6,
+                "Communication": 8,
+                "Problem Solving": 9,
+                "Critical Thinking": 8
+            },
+            "optional_skills": {
+                "TensorFlow": 7,
+                "PyTorch": 7,
+                "Deep Learning": 6,
+                "R": 5,
+                "Tableau": 5,
+                "Power BI": 5,
+                "AWS": 6,
+                "Docker": 5,
+                "Kubernetes": 4,
+                "Spark": 5,
+                "Hadoop": 4,
+                "MongoDB": 4,
+                "Redis": 4,
+                "Teamwork": 7,
+                "Leadership": 6,
+                "Time Management": 6
+            }
+        },
+        "Software Engineer": {
+            "description": "Designs, develops, and maintains software applications and systems",
+            "required_skills": {
+                "Python": 8,
+                "JavaScript": 8,
+                "SQL": 7,
+                "Git": 8,
+                "HTML": 7,
+                "CSS": 6,
+                "React": 7,
+                "Node.js": 7,
+                "Docker": 6,
+                "AWS": 6,
+                "Communication": 7,
+                "Problem Solving": 9,
+                "Teamwork": 8,
+                "Time Management": 7
+            },
+            "optional_skills": {
+                "Java": 6,
+                "C++": 5,
+                "C#": 5,
+                "Go": 5,
+                "Rust": 4,
+                "Angular": 6,
+                "Vue.js": 5,
+                "TypeScript": 6,
+                "MongoDB": 5,
+                "Redis": 5,
+                "Kubernetes": 5,
+                "Jenkins": 5,
+                "Terraform": 4,
+                "Leadership": 6,
+                "Critical Thinking": 7
+            }
+        },
+        "Frontend Developer": {
+            "description": "Creates user-facing web applications and interfaces",
+            "required_skills": {
+                "HTML": 9,
+                "CSS": 9,
+                "JavaScript": 9,
+                "React": 8,
+                "Git": 7,
+                "Responsive Design": 8,
+                "Communication": 7,
+                "Problem Solving": 8,
+                "Teamwork": 7,
+                "Time Management": 6
+            },
+            "optional_skills": {
+                "TypeScript": 7,
+                "Angular": 6,
+                "Vue.js": 6,
+                "Node.js": 6,
+                "Sass": 6,
+                "Bootstrap": 5,
+                "Tailwind": 5,
+                "Webpack": 6,
+                "Jest": 5,
+                "Cypress": 5,
+                "AWS": 4,
+                "Docker": 4,
+                "Leadership": 5,
+                "Critical Thinking": 6
+            }
+        },
+        "Backend Developer": {
+            "description": "Develops server-side logic and APIs for web applications",
+            "required_skills": {
+                "Python": 8,
+                "SQL": 9,
+                "JavaScript": 7,
+                "Node.js": 8,
+                "Git": 8,
+                "Docker": 7,
+                "AWS": 7,
+                "Communication": 7,
+                "Problem Solving": 9,
+                "Teamwork": 7,
+                "Time Management": 7
+            },
+            "optional_skills": {
+                "Java": 6,
+                "C#": 6,
+                "Go": 5,
+                "Rust": 4,
+                "MongoDB": 6,
+                "Redis": 6,
+                "PostgreSQL": 7,
+                "MySQL": 6,
+                "Kubernetes": 6,
+                "Jenkins": 5,
+                "Terraform": 5,
+                "GraphQL": 6,
+                "Microservices": 6,
+                "Leadership": 6,
+                "Critical Thinking": 7
+            }
+        },
+        "DevOps Engineer": {
+            "description": "Manages infrastructure, deployment, and operational processes",
+            "required_skills": {
+                "Docker": 9,
+                "Kubernetes": 8,
+                "AWS": 8,
+                "Git": 8,
+                "Jenkins": 7,
+                "Terraform": 7,
+                "Linux": 8,
+                "SQL": 6,
+                "Communication": 7,
+                "Problem Solving": 8,
+                "Teamwork": 8,
+                "Time Management": 7
+            },
+            "optional_skills": {
+                "Python": 6,
+                "Go": 5,
+                "Bash": 7,
+                "Ansible": 6,
+                "Puppet": 5,
+                "Chef": 4,
+                "Prometheus": 6,
+                "Grafana": 5,
+                "ELK Stack": 5,
+                "Azure": 6,
+                "GCP": 5,
+                "Leadership": 6,
+                "Critical Thinking": 7
+            }
+        },
+        "Machine Learning Engineer": {
+            "description": "Builds and deploys machine learning models and systems",
+            "required_skills": {
+                "Python": 9,
+                "Machine Learning": 9,
+                "TensorFlow": 8,
+                "PyTorch": 8,
+                "SQL": 7,
+                "Git": 7,
+                "Docker": 7,
+                "AWS": 7,
+                "Communication": 7,
+                "Problem Solving": 9,
+                "Critical Thinking": 8,
+                "Teamwork": 7
+            },
+            "optional_skills": {
+                "Deep Learning": 8,
+                "Scikit-learn": 7,
+                "Kubernetes": 6,
+                "Spark": 6,
+                "Hadoop": 5,
+                "MongoDB": 5,
+                "Redis": 5,
+                "Azure": 6,
+                "GCP": 5,
+                "Leadership": 6,
+                "Time Management": 6
+            }
+        },
+        "Data Engineer": {
+            "description": "Builds and maintains data pipelines and infrastructure",
+            "required_skills": {
+                "Python": 8,
+                "SQL": 9,
+                "Spark": 8,
+                "Hadoop": 7,
+                "Docker": 7,
+                "AWS": 8,
+                "Git": 7,
+                "Communication": 7,
+                "Problem Solving": 8,
+                "Teamwork": 7,
+                "Time Management": 7
+            },
+            "optional_skills": {
+                "Java": 6,
+                "Scala": 5,
+                "Kafka": 6,
+                "Airflow": 6,
+                "Kubernetes": 6,
+                "MongoDB": 6,
+                "Redis": 5,
+                "Elasticsearch": 5,
+                "Azure": 6,
+                "GCP": 5,
+                "Leadership": 6,
+                "Critical Thinking": 7
+            }
+        },
+        "Product Manager": {
+            "description": "Leads product strategy, development, and market success",
+            "required_skills": {
+                "Communication": 10,
+                "Leadership": 9,
+                "Problem Solving": 9,
+                "Strategic Thinking": 8,
+                "Teamwork": 9,
+                "Time Management": 8,
+                "Critical Thinking": 8
+            },
+            "optional_skills": {
+                "SQL": 5,
+                "Python": 4,
+                "JavaScript": 3,
+                "HTML": 3,
+                "CSS": 3,
+                "Agile": 7,
+                "Scrum": 7,
+                "Jira": 6,
+                "AWS": 4,
+                "Data Science": 5,
+                "Machine Learning": 4
+            }
+        }
+    }
+}

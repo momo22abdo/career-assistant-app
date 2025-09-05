@@ -1,0 +1,14 @@
+{
+  "total_careers": 20,
+  "total_skills": 174,
+  "datasets_generated": [
+    "career_skills",
+    "salary_demand",
+    "courses",
+    "job_posts",
+    "peer_profiles",
+    "career_keywords",
+    "qa_dataset"
+  ],
+  "total_records": 913
+}

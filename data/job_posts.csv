@@ -1,0 +1,116 @@
+job_id,title,company,location,min_salary,max_salary,required_skills,experience_level,job_type,posted_date,application_deadline,url
+JOB_7419,Staff Data Scientist,Innovation Hub,United States,49775,74662,"Kotlin, C#, PHP, Machine Learning, Ruby, JavaScript",Lead,Full-time,2024-08-22,2024-04-22,https://example.com/jobs/1964
+JOB_8344,Associate Data Scientist,StartupXYZ,India,96673,145010,"SQL, Rust, PHP, Data Science, C#",Entry,Full-time,2024-09-05,2024-05-25,https://example.com/jobs/4774
+JOB_3211,Associate Data Scientist,Innovation Hub,Canada,81632,122449,"Statistics, Machine Learning, Python, Data Science, SQL, C#",Senior,Part-time,2024-09-11,2024-10-12,https://example.com/jobs/3761
+JOB_8839,Data Scientist Manager,Smart Solutions,India,50923,76384,"Deep Learning, JavaScript, Go, Swift, Rust, C#",Entry,Remote,2024-05-03,2024-04-28,https://example.com/jobs/7066
+JOB_3942,Staff Data Scientist,TechCorp,Switzerland,74702,112053,"Python, Statistics, C#, Kotlin",Lead,Remote,2024-11-11,2024-12-07,https://example.com/jobs/9526
+JOB_4265,Data Scientist Lead,Enterprise Corp,India,113727,170590,"JavaScript, MATLAB, Statistics, Machine Learning, Kotlin",Entry,Contract,2024-12-08,2024-08-11,https://example.com/jobs/3421
+JOB_4449,Junior Data Scientist,InnovateTech,Sweden,92028,138042,"Data Science, R, Julia, PHP, Python",Entry,Full-time,2024-12-03,2024-12-03,https://example.com/jobs/9597
+JOB_8018,Associate Data Engineer,FutureSystems,United States,107166,160749,"JavaScript, Julia, Scala",Senior,Full-time,2024-01-16,2024-06-21,https://example.com/jobs/7839
+JOB_8885,Principal Data Engineer,InnovateTech,India,82466,123699,"Java, Deep Learning, Julia, Data Science, PHP, MATLAB",Entry,Contract,2024-09-27,2024-08-12,https://example.com/jobs/8180
+JOB_5034,Data Engineer Manager,DataFlow Inc,Brazil,95794,143691,"Swift, Statistics, Scala, PHP",Senior,Full-time,2024-09-19,2024-02-03,https://example.com/jobs/4242
+JOB_6318,Data Engineer Manager,TechCorp,Japan,96814,145221,"Machine Learning, MATLAB, Java",Mid,Part-time,2024-11-28,2024-06-15,https://example.com/jobs/7699
+JOB_7070,Associate Machine Learning Engineer,Digital Future,United States,74739,112108,"Ruby, Python, Rust, Statistics",Senior,Full-time,2024-12-20,2024-12-18,https://example.com/jobs/4537
+JOB_5724,Associate Machine Learning Engineer,Digital Future,Singapore,106181,159272,"Statistics, PHP, C#, Kotlin, R",Mid,Remote,2024-01-25,2024-05-11,https://example.com/jobs/8879
+JOB_4963,Machine Learning Engineer Manager,Innovation Hub,Sweden,86888,130333,"C++, C#, Swift, Scala, MATLAB",Lead,Remote,2024-04-09,2024-11-17,https://example.com/jobs/5785
+JOB_4785,Machine Learning Engineer Lead,FutureSystems,Japan,93312,139969,"Julia, R, PHP, Rust, Kotlin, Data Science",Senior,Remote,2024-05-24,2024-04-20,https://example.com/jobs/2493
+JOB_6045,Junior Machine Learning Engineer,Tech Giants,Switzerland,65484,98226,"R, Rust, Go, Ruby, SQL",Mid,Full-time,2024-11-27,2024-08-13,https://example.com/jobs/8473
+JOB_1238,Staff Machine Learning Engineer,BigTech Company,Brazil,52157,78236,"Data Science, Machine Learning, Ruby, Java, Swift",Mid,Full-time,2024-08-19,2024-07-13,https://example.com/jobs/5246
+JOB_6780,Staff Machine Learning Engineer,Smart Solutions,Sweden,62096,93144,"Ruby, Kotlin, Rust, Julia",Mid,Part-time,2024-06-06,2024-10-27,https://example.com/jobs/1339
+JOB_4914,Associate Machine Learning Engineer,InnovateTech,Brazil,105496,158245,"Data Science, Statistics, Scala, Java",Entry,Contract,2024-10-16,2024-04-27,https://example.com/jobs/5523
+JOB_7860,Senior Software Engineer II,DataFlow Inc,Germany,90535,135802,"Swift, Statistics, PHP",Lead,Contract,2024-02-09,2024-05-14,https://example.com/jobs/8296
+JOB_7619,Associate Software Engineer,InnovateTech,Netherlands,113170,169755,"C++, Swift, JavaScript",Senior,Full-time,2024-06-14,2024-06-19,https://example.com/jobs/8440
+JOB_7214,Software Engineer Lead,AILabs,France,57352,86029,"Swift, Deep Learning, Python",Senior,Remote,2024-08-05,2024-04-21,https://example.com/jobs/1770
+JOB_6676,Junior Software Engineer,Tech Giants,United States,111186,166779,"Scala, MATLAB, JavaScript, Swift, Go",Entry,Full-time,2024-06-23,2024-10-16,https://example.com/jobs/2200
+JOB_9601,Associate Software Engineer,Tech Giants,Spain,97471,146206,"Ruby, C++, Kotlin, PHP",Lead,Contract,2024-06-25,2024-02-08,https://example.com/jobs/6544
+JOB_6985,Senior Software Engineer II,AILabs,Germany,61332,91998,"SQL, Julia, Kotlin",Mid,Contract,2024-06-24,2024-06-21,https://example.com/jobs/5655
+JOB_8373,Senior Software Engineer II,Digital Future,Singapore,118260,177390,"Python, Scala, R, SQL, Ruby, Java",Senior,Contract,2024-08-12,2024-11-24,https://example.com/jobs/1540
+JOB_1755,Principal Frontend Developer,Tech Giants,Japan,114692,172039,"JavaScript, R, PHP",Senior,Remote,2024-07-12,2024-01-15,https://example.com/jobs/7399
+JOB_9963,Staff Frontend Developer,Digital Solutions,Spain,66085,99128,"PHP, Scala, Kotlin",Mid,Contract,2024-09-18,2024-05-01,https://example.com/jobs/9810
+JOB_5862,Frontend Developer Manager,TechStart,Japan,95302,142953,"Python, Machine Learning, Java",Senior,Full-time,2024-06-03,2024-07-04,https://example.com/jobs/8953
+JOB_7133,Frontend Developer Lead,Tech Giants,France,90116,135174,"Scala, Java, Machine Learning, Statistics, Swift, PHP",Senior,Full-time,2024-09-15,2024-10-18,https://example.com/jobs/8824
+JOB_2234,Frontend Developer Manager,Digital Future,Japan,68596,102894,"Data Science, PHP, Swift, JavaScript, Scala",Senior,Contract,2024-11-04,2024-08-05,https://example.com/jobs/2921
+JOB_2012,Senior Frontend Developer II,BigTech Company,Japan,117170,175755,"JavaScript, Machine Learning, Ruby",Mid,Remote,2024-06-26,2024-11-27,https://example.com/jobs/8480
+JOB_9631,Junior Frontend Developer,Smart Solutions,Singapore,80950,121425,"R, C++, C#",Senior,Contract,2024-06-06,2024-12-08,https://example.com/jobs/6406
+JOB_2313,Senior Frontend Developer,StartupXYZ,Switzerland,48570,72855,"Rust, Go, SQL, Julia",Mid,Contract,2024-05-18,2024-03-22,https://example.com/jobs/6621
+JOB_6283,Senior Backend Developer II,Digital Solutions,United Kingdom,97426,146139,"Python, MATLAB, Machine Learning",Mid,Part-time,2024-10-15,2024-11-01,https://example.com/jobs/3442
+JOB_7827,Backend Developer Manager,DataFlow Inc,Netherlands,109020,163531,"SQL, MATLAB, Scala, Go, Deep Learning",Lead,Part-time,2024-08-03,2024-06-13,https://example.com/jobs/3823
+JOB_6198,Staff Backend Developer,FutureSystems,Australia,71026,106539,"Kotlin, Julia, Java, SQL, Scala, Machine Learning",Senior,Remote,2024-02-06,2024-06-23,https://example.com/jobs/4996
+JOB_6849,Junior Backend Developer,Digital Solutions,India,71374,107061,"Data Science, Machine Learning, SQL",Mid,Part-time,2024-09-18,2024-06-04,https://example.com/jobs/2018
+JOB_8723,Staff Backend Developer,Tech Giants,France,75336,113004,"Data Science, MATLAB, Swift, Java, Machine Learning, C++",Lead,Part-time,2024-06-18,2024-08-09,https://example.com/jobs/4299
+JOB_1392,Associate Backend Developer,BigTech Company,Canada,87335,131002,"Ruby, C++, Python, PHP, SQL",Lead,Full-time,2024-10-25,2024-04-27,https://example.com/jobs/4730
+JOB_3762,Staff DevOps Engineer,Innovation Hub,Brazil,55955,83932,"Deep Learning, C#, Julia",Mid,Part-time,2024-02-06,2024-11-22,https://example.com/jobs/3306
+JOB_4147,Junior DevOps Engineer,FutureSystems,United Kingdom,115743,173614,"C++, Julia, Machine Learning, R, Data Science",Senior,Remote,2024-02-23,2024-12-04,https://example.com/jobs/4155
+JOB_6158,Junior DevOps Engineer,Enterprise Corp,Switzerland,107355,161032,"Swift, Ruby, JavaScript, Deep Learning",Senior,Contract,2024-11-02,2024-06-07,https://example.com/jobs/3070
+JOB_6513,Senior DevOps Engineer II,Digital Future,Germany,101237,151856,"SQL, C#, R, Ruby",Lead,Remote,2024-11-28,2024-06-20,https://example.com/jobs/7678
+JOB_7059,Product Manager Lead,Tech Giants,United States,116192,174289,"MATLAB, Scala, Statistics, Python",Mid,Full-time,2024-02-26,2024-12-16,https://example.com/jobs/1233
+JOB_6910,Principal Product Manager,Digital Solutions,Switzerland,84247,126370,"C#, Java, JavaScript, Rust, Kotlin",Mid,Full-time,2024-02-07,2024-10-27,https://example.com/jobs/5774
+JOB_2768,Senior Product Manager,Tech Giants,India,110156,165234,"MATLAB, Kotlin, Statistics, SQL",Lead,Part-time,2024-07-02,2024-01-22,https://example.com/jobs/5487
+JOB_8005,Senior UX Designer,TechStart,India,68885,103328,"Ruby, R, Machine Learning, Swift, PHP, SQL",Mid,Remote,2024-05-03,2024-03-02,https://example.com/jobs/9504
+JOB_2786,Principal UX Designer,CloudWorks,Canada,69905,104858,"Scala, MATLAB, Go, Java, Machine Learning, Swift",Lead,Full-time,2024-01-05,2024-09-03,https://example.com/jobs/9163
+JOB_1379,Junior UX Designer,Digital Future,Japan,63822,95733,"Kotlin, Scala, Statistics, Machine Learning, Ruby, Deep Learning",Entry,Part-time,2024-03-12,2024-01-24,https://example.com/jobs/2302
+JOB_6343,UX Designer Lead,Enterprise Corp,Switzerland,90122,135183,"Java, Julia, Python, C++, Statistics",Entry,Full-time,2024-11-06,2024-04-01,https://example.com/jobs/1676
+JOB_6481,Principal UX Designer,Innovation Hub,Netherlands,58448,87673,"JavaScript, Swift, Kotlin, Go",Mid,Full-time,2024-12-21,2024-06-27,https://example.com/jobs/2706
+JOB_4144,Principal UX Designer,DataFlow Inc,Australia,63967,95950,"Kotlin, MATLAB, Rust, C++, Julia, Statistics",Senior,Remote,2024-09-10,2024-07-09,https://example.com/jobs/3855
+JOB_7376,Data Analyst Lead,TechStart,India,118084,177126,"SQL, Deep Learning, Rust, C#, PHP",Lead,Contract,2024-04-27,2024-01-10,https://example.com/jobs/6266
+JOB_5431,Senior Data Analyst,FutureSystems,Singapore,81850,122775,"Go, SQL, MATLAB, Statistics, Data Science",Senior,Remote,2024-02-10,2024-06-05,https://example.com/jobs/2052
+JOB_2166,Data Analyst Lead,Innovation Hub,Japan,59997,89996,"Machine Learning, Scala, C#",Lead,Contract,2024-05-12,2024-01-03,https://example.com/jobs/6096
+JOB_2762,Principal Data Analyst,TechStart,Brazil,75907,113860,"Python, SQL, Java, Kotlin, R",Entry,Full-time,2024-08-02,2024-03-25,https://example.com/jobs/6982
+JOB_2737,Staff Data Analyst,BigTech Company,Switzerland,83104,124657,"Kotlin, Java, Data Science, Julia, Scala",Lead,Remote,2024-04-10,2024-12-01,https://example.com/jobs/4016
+JOB_2734,Staff Data Analyst,FutureSystems,United States,118557,177836,"Julia, C#, JavaScript, Ruby, Java, Swift",Entry,Contract,2024-01-13,2024-06-07,https://example.com/jobs/7575
+JOB_8868,Senior Data Analyst II,BigTech Company,India,98204,147306,"R, PHP, Swift, Statistics, C++",Mid,Remote,2024-06-14,2024-06-14,https://example.com/jobs/4811
+JOB_9506,Business Analyst Lead,Smart Solutions,Sweden,118047,177070,"JavaScript, Julia, SQL",Entry,Full-time,2024-05-15,2024-04-19,https://example.com/jobs/1498
+JOB_6920,Senior Business Analyst II,Digital Solutions,United States,92001,138002,"Statistics, JavaScript, SQL, Kotlin, Deep Learning, C++",Lead,Part-time,2024-01-16,2024-09-23,https://example.com/jobs/2091
+JOB_6863,Business Analyst Manager,AILabs,France,101034,151551,"MATLAB, Swift, Python, Deep Learning, SQL",Mid,Full-time,2024-08-13,2024-05-05,https://example.com/jobs/4645
+JOB_8905,Senior Business Analyst II,TechStart,Canada,102785,154178,"Julia, SQL, JavaScript, C++, Machine Learning, Swift",Lead,Part-time,2024-12-07,2024-06-27,https://example.com/jobs/8242
+JOB_7398,Senior Business Analyst,Digital Solutions,Germany,78748,118123,"Python, R, Machine Learning, JavaScript, Data Science",Senior,Full-time,2024-05-17,2024-10-06,https://example.com/jobs/8070
+JOB_4069,Senior Cloud Architect II,AILabs,France,118484,177726,"Statistics, Ruby, Java, Go, Machine Learning, Deep Learning",Entry,Contract,2024-06-08,2024-03-05,https://example.com/jobs/7135
+JOB_5573,Junior Cloud Architect,Enterprise Corp,Japan,63649,95474,"Python, Machine Learning, C++, Ruby, Deep Learning",Mid,Full-time,2024-09-27,2024-12-12,https://example.com/jobs/3338
+JOB_9909,Cloud Architect Lead,AILabs,India,64992,97489,"Scala, Kotlin, Ruby, Python, Data Science, Julia",Mid,Contract,2024-10-10,2024-11-25,https://example.com/jobs/7775
+JOB_9367,Senior Cloud Architect,TechCorp,United Kingdom,116621,174932,"Data Science, C++, Julia, Machine Learning",Entry,Part-time,2024-01-13,2024-11-18,https://example.com/jobs/6294
+JOB_1805,Junior Cloud Architect,DataFlow Inc,Brazil,87606,131409,"JavaScript, Go, Java, Deep Learning",Senior,Remote,2024-07-11,2024-12-11,https://example.com/jobs/3042
+JOB_7066,Staff Cloud Architect,CloudWorks,Brazil,50539,75808,"Data Science, Ruby, Rust, Statistics, JavaScript",Entry,Full-time,2024-05-22,2024-11-04,https://example.com/jobs/3499
+JOB_4692,Principal Cloud Architect,BigTech Company,Sweden,95567,143350,"MATLAB, Kotlin, R, Deep Learning, JavaScript, Ruby",Mid,Full-time,2024-09-18,2024-02-06,https://example.com/jobs/5673
+JOB_8800,Cybersecurity Analyst Manager,InnovateTech,Japan,85426,128139,"Go, JavaScript, Julia, PHP, Rust",Entry,Full-time,2024-09-16,2024-09-14,https://example.com/jobs/1790
+JOB_5539,Principal Cybersecurity Analyst,Tech Giants,Singapore,54709,82064,"Data Science, PHP, MATLAB, Julia",Lead,Remote,2024-08-14,2024-11-08,https://example.com/jobs/4009
+JOB_3226,Associate Cybersecurity Analyst,AILabs,Japan,100852,151279,"Statistics, R, Ruby, Rust, MATLAB",Entry,Full-time,2024-04-08,2024-04-04,https://example.com/jobs/2738
+JOB_6370,Associate Cybersecurity Analyst,Tech Giants,Germany,87400,131100,"Go, C#, Julia, MATLAB, Python",Mid,Part-time,2024-08-11,2024-09-23,https://example.com/jobs/9584
+JOB_3890,Senior AI Research Scientist II,Innovation Hub,Netherlands,65846,98769,"JavaScript, R, Scala, C++, Machine Learning, Kotlin",Senior,Contract,2024-12-22,2024-04-08,https://example.com/jobs/1824
+JOB_8580,AI Research Scientist Manager,Innovation Hub,Netherlands,114249,171374,"Rust, Java, Statistics, C++",Entry,Contract,2024-09-04,2024-06-06,https://example.com/jobs/6152
+JOB_3493,Associate AI Research Scientist,Tech Giants,United Kingdom,52612,78919,"SQL, C++, Python, R, Data Science",Lead,Remote,2024-07-01,2024-05-12,https://example.com/jobs/3239
+JOB_1992,Senior AI Research Scientist II,Innovation Hub,Canada,104174,156261,"Statistics, C++, Ruby, Kotlin, Java",Mid,Remote,2024-12-03,2024-09-16,https://example.com/jobs/6688
+JOB_6892,Staff Full Stack Developer,InnovateTech,Spain,80938,121407,"C#, Rust, Deep Learning, R, C++",Senior,Part-time,2024-03-12,2024-09-12,https://example.com/jobs/7148
+JOB_9297,Senior Full Stack Developer II,Digital Future,Canada,84132,126199,"Machine Learning, PHP, Deep Learning",Mid,Part-time,2024-09-25,2024-02-12,https://example.com/jobs/2339
+JOB_6535,Junior Full Stack Developer,Digital Future,France,107839,161758,"C++, C#, Statistics, SQL, Java",Senior,Remote,2024-11-10,2024-04-18,https://example.com/jobs/5180
+JOB_7729,Senior Full Stack Developer II,Digital Solutions,Sweden,49328,73993,"Go, Julia, Machine Learning, C#, C++, Java",Lead,Remote,2024-01-21,2024-12-14,https://example.com/jobs/6190
+JOB_6311,Senior Mobile Developer II,Smart Solutions,United States,52136,78204,"Python, Swift, MATLAB, Statistics, PHP",Entry,Remote,2024-03-06,2024-05-20,https://example.com/jobs/4527
+JOB_6934,Junior Mobile Developer,Tech Giants,Singapore,97333,146000,"Scala, JavaScript, PHP, Julia",Entry,Remote,2024-07-21,2024-07-03,https://example.com/jobs/2610
+JOB_2367,Principal Mobile Developer,BigTech Company,Sweden,96541,144812,"Rust, PHP, Java, JavaScript",Entry,Contract,2024-11-27,2024-10-26,https://example.com/jobs/3916
+JOB_2998,Staff Mobile Developer,Digital Solutions,Sweden,60081,90122,"Python, JavaScript, Java, C++, Kotlin",Senior,Part-time,2024-08-04,2024-07-04,https://example.com/jobs/1985
+JOB_1193,Senior Mobile Developer II,Innovation Hub,Australia,88972,133458,"Kotlin, Java, Data Science, Rust, SQL, MATLAB",Senior,Full-time,2024-03-23,2024-12-03,https://example.com/jobs/2904
+JOB_6190,Principal Mobile Developer,FutureSystems,United States,52520,78780,"Kotlin, Statistics, Data Science, Python",Lead,Remote,2024-07-21,2024-02-03,https://example.com/jobs/3798
+JOB_6840,Mobile Developer Manager,AILabs,Japan,93896,140845,"MATLAB, JavaScript, Rust, Go, Data Science",Mid,Remote,2024-11-18,2024-03-25,https://example.com/jobs/7992
+JOB_1757,Senior Mobile Developer II,TechStart,Netherlands,98314,147471,"Swift, Java, Go, MATLAB",Senior,Remote,2024-01-23,2024-03-05,https://example.com/jobs/8276
+JOB_6716,Principal QA Engineer,Tech Giants,Spain,84056,126084,"Machine Learning, Ruby, JavaScript, Go",Mid,Remote,2024-01-21,2024-04-13,https://example.com/jobs/8498
+JOB_7168,QA Engineer Manager,BigTech Company,Brazil,61965,92948,"C#, R, Scala, JavaScript, Ruby",Lead,Part-time,2024-03-24,2024-05-26,https://example.com/jobs/4095
+JOB_4996,QA Engineer Manager,Enterprise Corp,United Kingdom,104774,157161,"Python, MATLAB, R",Mid,Contract,2024-03-26,2024-03-24,https://example.com/jobs/7946
+JOB_8425,Junior QA Engineer,Enterprise Corp,France,72053,108080,"Python, Julia, C++, Statistics",Lead,Full-time,2024-02-15,2024-02-08,https://example.com/jobs/3437
+JOB_4003,Staff QA Engineer,TechStart,Germany,85882,128823,"Kotlin, MATLAB, Deep Learning, Python, Swift, R",Entry,Contract,2024-08-03,2024-07-12,https://example.com/jobs/1332
+JOB_1565,Senior QA Engineer II,DataFlow Inc,France,117438,176157,"PHP, Swift, Java",Senior,Remote,2024-11-25,2024-02-03,https://example.com/jobs/3217
+JOB_3585,Senior QA Engineer II,FutureSystems,Canada,75470,113205,"Scala, Rust, Python",Mid,Full-time,2024-08-08,2024-01-22,https://example.com/jobs/9408
+JOB_7280,QA Engineer Manager,BigTech Company,United Kingdom,73844,110767,"Data Science, Julia, Rust, Java",Lead,Full-time,2024-03-20,2024-07-20,https://example.com/jobs/5505
+JOB_5728,Staff Technical Writer,DataFlow Inc,France,65636,98455,"MATLAB, SQL, Rust",Senior,Contract,2024-12-08,2024-09-24,https://example.com/jobs/9423
+JOB_6940,Senior Technical Writer,Enterprise Corp,United States,111562,167343,"Statistics, JavaScript, PHP",Entry,Part-time,2024-11-17,2024-10-28,https://example.com/jobs/6754
+JOB_7626,Associate Technical Writer,StartupXYZ,Australia,87575,131362,"Java, C#, R, Data Science",Entry,Remote,2024-11-09,2024-12-21,https://example.com/jobs/6784
+JOB_5667,Senior Technical Writer II,Tech Giants,Spain,55978,83967,"Python, Kotlin, PHP, Ruby, Machine Learning, JavaScript",Senior,Full-time,2024-09-06,2024-12-05,https://example.com/jobs/4174
+JOB_5788,Associate Data Architect,TechCorp,Australia,104340,156511,"Rust, Go, Ruby",Mid,Remote,2024-03-10,2024-08-28,https://example.com/jobs/1966
+JOB_8809,Senior Data Architect,Smart Solutions,Germany,57247,85870,"Kotlin, MATLAB, Deep Learning, C++, Ruby",Entry,Full-time,2024-09-12,2024-07-25,https://example.com/jobs/2801
+JOB_7721,Senior Data Architect II,FutureSystems,Singapore,94238,141357,"Go, Julia, Rust",Mid,Full-time,2024-12-06,2024-05-15,https://example.com/jobs/2879
+JOB_2072,Senior Data Architect II,TechCorp,Singapore,52351,78526,"Swift, Deep Learning, Go, C++, SQL",Senior,Remote,2024-06-20,2024-04-04,https://example.com/jobs/9508
+JOB_2099,Junior MLOps Engineer,AILabs,India,118939,178408,"Ruby, Java, Kotlin",Senior,Remote,2024-06-04,2024-04-13,https://example.com/jobs/5794
+JOB_8466,Junior MLOps Engineer,TechCorp,India,107364,161047,"Go, PHP, JavaScript, Ruby",Lead,Remote,2024-11-22,2024-04-26,https://example.com/jobs/7276
+JOB_7009,MLOps Engineer Manager,CloudWorks,Japan,57306,85959,"SQL, Julia, PHP, Scala, Python, Deep Learning",Mid,Full-time,2024-11-03,2024-03-04,https://example.com/jobs/5353
+JOB_4037,Senior MLOps Engineer,CloudWorks,Singapore,118428,177643,"Data Science, Swift, R, Julia",Entry,Full-time,2024-11-10,2024-05-20,https://example.com/jobs/3401
+JOB_9209,Staff MLOps Engineer,FutureSystems,Sweden,67914,101871,"C++, SQL, C#, R",Lead,Part-time,2024-03-20,2024-04-18,https://example.com/jobs/6610
+JOB_5866,Senior MLOps Engineer II,TechStart,Germany,85281,127922,"Go, Machine Learning, Data Science, Kotlin",Lead,Remote,2024-03-23,2024-04-23,https://example.com/jobs/5656
+JOB_9417,Senior MLOps Engineer II,TechStart,Germany,117616,176424,"Go, MATLAB, JavaScript, Java, Python",Senior,Remote,2024-09-13,2024-03-04,https://example.com/jobs/1882

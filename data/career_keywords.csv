@@ -1,0 +1,173 @@
+career,keyword,frequency_percentage,importance_score,category
+Data Scientist,data analysis,85,10,Soft Skills
+Data Scientist,data visualization,60,9,Methodologies
+Data Scientist,statistics,82,7,Technical
+Data Scientist,machine learning,75,10,Technical
+Data Scientist,python,87,10,Soft Skills
+Data Scientist,sql,67,9,Technical
+Data Scientist,problem solving,82,9,Technical
+Data Scientist,communication,67,7,Technical
+Data Scientist,collaboration,91,7,Methodologies
+Data Scientist,time management,91,9,Methodologies
+Data Scientist,leadership,83,10,Tools
+Data Engineer,data analysis,95,9,Methodologies
+Data Engineer,data visualization,84,8,Soft Skills
+Data Engineer,statistics,64,10,Soft Skills
+Data Engineer,machine learning,85,8,Soft Skills
+Data Engineer,python,65,7,Tools
+Data Engineer,sql,84,10,Technical
+Data Engineer,problem solving,78,9,Technical
+Data Engineer,communication,77,9,Soft Skills
+Data Engineer,collaboration,79,7,Methodologies
+Data Engineer,time management,76,10,Soft Skills
+Data Engineer,leadership,76,10,Methodologies
+Machine Learning Engineer,software development,86,7,Soft Skills
+Machine Learning Engineer,programming,83,8,Tools
+Machine Learning Engineer,algorithms,72,9,Methodologies
+Machine Learning Engineer,data structures,66,10,Methodologies
+Machine Learning Engineer,git,86,7,Technical
+Machine Learning Engineer,testing,78,10,Tools
+Machine Learning Engineer,problem solving,70,7,Tools
+Machine Learning Engineer,communication,72,10,Tools
+Machine Learning Engineer,collaboration,73,10,Methodologies
+Machine Learning Engineer,time management,83,7,Tools
+Machine Learning Engineer,leadership,63,8,Methodologies
+Software Engineer,software development,90,7,Tools
+Software Engineer,programming,72,8,Soft Skills
+Software Engineer,algorithms,65,7,Soft Skills
+Software Engineer,data structures,78,7,Soft Skills
+Software Engineer,git,95,10,Soft Skills
+Software Engineer,testing,60,9,Soft Skills
+Software Engineer,problem solving,64,9,Methodologies
+Software Engineer,communication,88,8,Soft Skills
+Software Engineer,collaboration,72,8,Tools
+Software Engineer,time management,73,9,Soft Skills
+Software Engineer,leadership,60,9,Soft Skills
+Frontend Developer,problem solving,81,7,Tools
+Frontend Developer,communication,87,10,Soft Skills
+Frontend Developer,collaboration,85,9,Soft Skills
+Frontend Developer,time management,92,9,Tools
+Frontend Developer,leadership,82,7,Tools
+Backend Developer,problem solving,74,9,Methodologies
+Backend Developer,communication,88,10,Soft Skills
+Backend Developer,collaboration,82,10,Technical
+Backend Developer,time management,79,9,Technical
+Backend Developer,leadership,93,7,Technical
+DevOps Engineer,software development,94,9,Soft Skills
+DevOps Engineer,programming,63,7,Tools
+DevOps Engineer,algorithms,82,9,Tools
+DevOps Engineer,data structures,66,9,Technical
+DevOps Engineer,git,86,8,Methodologies
+DevOps Engineer,testing,95,7,Tools
+DevOps Engineer,problem solving,60,10,Methodologies
+DevOps Engineer,communication,68,9,Methodologies
+DevOps Engineer,collaboration,82,9,Methodologies
+DevOps Engineer,time management,64,10,Methodologies
+DevOps Engineer,leadership,70,7,Soft Skills
+Product Manager,project management,89,8,Tools
+Product Manager,team leadership,92,9,Soft Skills
+Product Manager,stakeholder management,85,10,Technical
+Product Manager,agile,68,10,Methodologies
+Product Manager,scrum,67,8,Tools
+Product Manager,problem solving,72,9,Technical
+Product Manager,communication,62,9,Methodologies
+Product Manager,collaboration,92,8,Technical
+Product Manager,time management,76,9,Tools
+Product Manager,leadership,84,7,Technical
+UX Designer,user experience,76,9,Soft Skills
+UX Designer,user interface,90,7,Methodologies
+UX Designer,prototyping,66,7,Methodologies
+UX Designer,wireframing,66,7,Methodologies
+UX Designer,design systems,84,10,Tools
+UX Designer,problem solving,77,10,Soft Skills
+UX Designer,communication,91,8,Soft Skills
+UX Designer,collaboration,66,7,Methodologies
+UX Designer,time management,74,7,Methodologies
+UX Designer,leadership,70,10,Soft Skills
+Data Analyst,data analysis,80,7,Methodologies
+Data Analyst,data visualization,73,10,Tools
+Data Analyst,statistics,60,9,Tools
+Data Analyst,machine learning,93,10,Technical
+Data Analyst,python,65,8,Technical
+Data Analyst,sql,79,8,Soft Skills
+Data Analyst,problem solving,73,7,Tools
+Data Analyst,communication,74,9,Tools
+Data Analyst,collaboration,91,9,Technical
+Data Analyst,time management,63,9,Methodologies
+Data Analyst,leadership,87,7,Tools
+Business Analyst,business analysis,62,8,Tools
+Business Analyst,requirements gathering,72,10,Methodologies
+Business Analyst,process improvement,62,9,Tools
+Business Analyst,data analysis,70,10,Tools
+Business Analyst,problem solving,79,7,Tools
+Business Analyst,communication,66,8,Methodologies
+Business Analyst,collaboration,82,9,Soft Skills
+Business Analyst,time management,71,10,Technical
+Business Analyst,leadership,74,10,Tools
+Cloud Architect,problem solving,65,10,Technical
+Cloud Architect,communication,88,7,Methodologies
+Cloud Architect,collaboration,68,8,Soft Skills
+Cloud Architect,time management,63,7,Tools
+Cloud Architect,leadership,67,8,Tools
+Cybersecurity Analyst,business analysis,60,7,Methodologies
+Cybersecurity Analyst,requirements gathering,77,7,Soft Skills
+Cybersecurity Analyst,process improvement,61,7,Tools
+Cybersecurity Analyst,data analysis,85,10,Technical
+Cybersecurity Analyst,problem solving,83,10,Tools
+Cybersecurity Analyst,communication,89,8,Soft Skills
+Cybersecurity Analyst,collaboration,82,8,Tools
+Cybersecurity Analyst,time management,67,9,Soft Skills
+Cybersecurity Analyst,leadership,72,10,Tools
+AI Research Scientist,problem solving,73,9,Methodologies
+AI Research Scientist,communication,92,8,Tools
+AI Research Scientist,collaboration,77,10,Methodologies
+AI Research Scientist,time management,74,8,Tools
+AI Research Scientist,leadership,81,9,Tools
+Full Stack Developer,problem solving,81,8,Tools
+Full Stack Developer,communication,77,9,Technical
+Full Stack Developer,collaboration,88,10,Methodologies
+Full Stack Developer,time management,92,8,Soft Skills
+Full Stack Developer,leadership,62,10,Methodologies
+Mobile Developer,problem solving,62,7,Soft Skills
+Mobile Developer,communication,76,8,Technical
+Mobile Developer,collaboration,72,9,Technical
+Mobile Developer,time management,76,9,Tools
+Mobile Developer,leadership,63,8,Soft Skills
+QA Engineer,software development,61,10,Tools
+QA Engineer,programming,65,7,Methodologies
+QA Engineer,algorithms,79,8,Soft Skills
+QA Engineer,data structures,70,10,Tools
+QA Engineer,git,67,9,Technical
+QA Engineer,testing,67,9,Tools
+QA Engineer,problem solving,80,7,Methodologies
+QA Engineer,communication,76,10,Tools
+QA Engineer,collaboration,68,9,Soft Skills
+QA Engineer,time management,74,10,Tools
+QA Engineer,leadership,90,8,Technical
+Technical Writer,problem solving,75,10,Technical
+Technical Writer,communication,70,9,Soft Skills
+Technical Writer,collaboration,66,9,Technical
+Technical Writer,time management,79,9,Methodologies
+Technical Writer,leadership,87,9,Methodologies
+Data Architect,data analysis,80,8,Tools
+Data Architect,data visualization,70,8,Methodologies
+Data Architect,statistics,72,9,Tools
+Data Architect,machine learning,79,9,Tools
+Data Architect,python,77,8,Soft Skills
+Data Architect,sql,88,9,Soft Skills
+Data Architect,problem solving,95,10,Soft Skills
+Data Architect,communication,89,10,Soft Skills
+Data Architect,collaboration,77,9,Soft Skills
+Data Architect,time management,63,10,Tools
+Data Architect,leadership,67,8,Tools
+MLOps Engineer,software development,66,10,Methodologies
+MLOps Engineer,programming,81,8,Soft Skills
+MLOps Engineer,algorithms,95,7,Tools
+MLOps Engineer,data structures,77,9,Technical
+MLOps Engineer,git,77,8,Soft Skills
+MLOps Engineer,testing,73,10,Tools
+MLOps Engineer,problem solving,66,10,Tools
+MLOps Engineer,communication,73,7,Technical
+MLOps Engineer,collaboration,77,8,Technical
+MLOps Engineer,time management,85,9,Tools
+MLOps Engineer,leadership,66,8,Tools
